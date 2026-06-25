@@ -1,0 +1,170 @@
+[
+  {
+    "id": "culpeper-fennel",
+    "name": "Fennel",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Fennel seed",
+        "modern_equivalent": "Foeniculum vulgare (fennel) seed"
+      }
+    ],
+    "preparation_as_written": "The text describes boiling the seed in water or wine and taking the resulting liquor; the seeds were also chewed after meals.",
+    "symptoms_addressed_as_written": "Culpeper writes that fennel eases wind and gripings of the belly, helps a queasy stomach, and provokes the appetite.",
+    "symptom_tags": [
+      "wind",
+      "bloating",
+      "gas",
+      "indigestion",
+      "upset stomach",
+      "poor appetite",
+      "colic",
+      "flatulence"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A common culinary herb. Eating or drinking fennel at food-strength amounts is not associated with significant risk for most people.",
+      "modern_evidence_status": "Limited modern evidence supports fennel as a carminative for mild bloating and infant colic; effects are modest and studies are small."
+    }
+  },
+  {
+    "id": "lewer-senna",
+    "name": "Senna",
+    "category": "digestive",
+    "source": {
+      "title": "A Book of Simples",
+      "author": "transcribed by Henry William Lewer (manuscript c.1600s, published 1908)",
+      "year": "1908",
+      "url": "https://www.gutenberg.org/files/53951/53951-h/53951-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Senna leaves / 'sene'",
+        "modern_equivalent": "Senna alexandrina (senna) leaf and pod"
+      }
+    ],
+    "preparation_as_written": "The manuscript describes the leaves infused in water, sometimes with ginger or aniseed added to lessen griping, and the liquor taken to loosen the body.",
+    "symptoms_addressed_as_written": "The text presents senna as a purge to loosen the belly and carry off 'gross humours'.",
+    "symptom_tags": [
+      "constipation",
+      "bound belly",
+      "purge",
+      "costiveness",
+      "loosen the body"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Senna is still used today as a stimulant laxative, but it is not for routine or long-term use, can cause cramping and fluid loss, and is generally avoided in pregnancy and in young children except under professional guidance.",
+      "modern_evidence_status": "Senna has good modern evidence as a short-term stimulant laxative and is an approved over-the-counter medicine in many countries, with the cautions noted above."
+    }
+  },
+  {
+    "id": "culpeper-comfrey",
+    "name": "Comfrey",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Comfrey root and leaf",
+        "modern_equivalent": "Symphytum officinale (comfrey)"
+      }
+    ],
+    "preparation_as_written": "The text describes the slimy root boiled and made into a poultice or drink, and used both on the skin and taken inwardly for inward hurts.",
+    "symptoms_addressed_as_written": "Culpeper writes that comfrey heals wounds and broken bones, knits together what is broken, and is taken inwardly for inward wounds and bruises.",
+    "symptom_tags": [
+      "wounds",
+      "bruises",
+      "sprains",
+      "broken bones",
+      "inward injury",
+      "sore skin"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "Comfrey contains pyrrolizidine alkaloids, which can cause serious liver damage. Taking it internally (as the historical text also describes) is now considered unsafe. Even on the skin, modern guidance restricts it to short-term use on intact (unbroken) skin only, and it should not be used in pregnancy or on children.",
+      "modern_evidence_status": "Topical comfrey preparations have some modern evidence for short-term relief of bruises, sprains and joint pain, but internal use is regarded as unsafe and is banned or restricted in several countries."
+    }
+  },
+  {
+    "id": "culpeper-pennyroyal",
+    "name": "Pennyroyal",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Pennyroyal / Pulioll-royal",
+        "modern_equivalent": "Mentha pulegium (European pennyroyal)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the herb boiled in water or wine and the liquor taken, and notes its use to 'provoke the courses' (bring on menstruation).",
+    "symptoms_addressed_as_written": "Culpeper writes that pennyroyal provokes women's courses, expels the dead child and afterbirth, helps wind and gripings of the belly, and is used for coughs.",
+    "symptom_tags": [
+      "bring on menstruation",
+      "provoke courses",
+      "induce miscarriage",
+      "abortion",
+      "expel afterbirth",
+      "missed period",
+      "wind",
+      "colic"
+    ],
+    "modern_caution": {
+      "flag_level": "critical",
+      "notes": "Pennyroyal — and especially its concentrated oil — is acutely poisonous. It has caused fatal liver and kidney failure, and its historical use to bring on menstruation or end pregnancy has killed people attempting it. There is no safe self-directed dose for these purposes. If you are pregnant, think you may be, or have a missed or worrying period, this is a situation for a healthcare professional, not a historical remedy.",
+      "modern_evidence_status": "No legitimate modern use supports internal pennyroyal for these purposes; poison-control and medical literature document severe and fatal toxicity, including deaths from attempted self-induced abortion."
+    }
+  },
+  {
+    "id": "culpeper-marigold",
+    "name": "Marigold (Calendula)",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Marigold flowers",
+        "modern_equivalent": "Calendula officinalis (pot marigold) — not the unrelated ornamental Tagetes 'marigold'"
+      }
+    ],
+    "preparation_as_written": "The text describes the flowers made into an ointment or the juice applied, and also the flowers used in broths.",
+    "symptoms_addressed_as_written": "Culpeper writes that marigold strengthens the heart, and that an ointment of the flowers is used for inflammations of the skin and to help heal wounds.",
+    "symptom_tags": [
+      "wounds",
+      "skin inflammation",
+      "rash",
+      "sore skin",
+      "minor cuts",
+      "chapped skin"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "Calendula is commonly used in modern skin balms and is generally well tolerated on intact skin; people allergic to the daisy family may react. Topical use only is implied here.",
+      "modern_evidence_status": "Some modest modern evidence supports topical calendula for minor skin irritation and wound soothing; quality of evidence is limited."
+    }
+  }
+]

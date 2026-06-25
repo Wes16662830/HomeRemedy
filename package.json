@@ -1,0 +1,24 @@
+{
+  "name": "home-apothecary-archive",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A searchable digital archive of home remedies from named, public-domain historical texts. A historical reference tool, not a medical advice product.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8",
+    "vitest": "^2.1.2"
+  }
+}

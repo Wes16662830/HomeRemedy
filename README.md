@@ -85,16 +85,43 @@ repo root. Each entry:
 Where modern identification of an ingredient is ambiguous, the
 `modern_equivalent` field says so explicitly rather than guessing.
 
-Phase 1 corpus: **43 entries** (19 low / 10 medium / 9 high / 5 critical) across
-digestive, skin, and respiratory categories, drawn from both approved sources
-(36 Culpeper, 7 Lewer). This began as a 22-entry validation set (build-order
-step 2) and was scaled up (step 4) once the suppression/flagging UI was verified
-working — every added entry passes the same safety-harness checks.
+Phase 1 corpus: **88 entries** (40 low / 25 medium / 14 high / 9 critical),
+23 of them suppressed from search. It began as a 22-entry Culpeper validation
+set (build-order step 2), was scaled up (step 4), and then expanded in a larger
+transcription pass that broadened beyond digestive/skin/respiratory into
+`fever & infection`, `pain & sleep`, `women's health`, `urinary`,
+`mouth & throat`, `circulatory & heart`, and `eyes`. Every added entry passes
+the same safety-harness checks. (Categories are free-form strings; the Browse
+view groups by whatever categories are present, so the corpus can grow into new
+ones without UI changes.)
+
+> **A note on sourcing.** Outbound network egress to `www.gutenberg.org` is
+> blocked by this environment's policy, so the raw source texts could not be
+> re-downloaded here. The larger pass therefore transcribes well-documented
+> herbs that genuinely appear in Culpeper's *Complete Herbal*, and deliberately
+> omits foreign/tropical simples whose presence in the named source could not be
+> confirmed, rather than mis-attributing them. The safety-critical
+> `modern_caution` content is modern pharmacology/toxicology regardless of the
+> historical text.
+
+## Transcription tooling
+
+The pass is backed by small, committed, reusable scripts so future passes are
+repeatable and self-validating:
+
+- `scripts/sources.mjs` — the canonical source records (the only two approved).
+- `scripts/add-entries.mjs <batch.json>` — merges a batch of compact,
+  `src`-keyed entries into the corpus, rejecting id/name collisions, bad flag
+  levels, unapproved sources, or missing fields **before** writing.
+- `scripts/validate-corpus.mjs` (`npm run validate`) — standalone QA over the
+  whole `remedies.json`: schema, required fields, duplicate ids/names, valid
+  flag on every entry, and source allowlist.
 
 ## Stack
 
-React + Vite. Remedy data as a static JSON file (no database needed for
-Phase 1).
+React + Vite. Remedy data as a static JSON file. At 88 entries this is still
+comfortable; the spec's suggested move to a database only applies once the
+corpus grows past a few hundred entries.
 
 ## Run
 
@@ -104,6 +131,7 @@ npm run dev        # dev server
 npm run build      # production build
 npm run preview    # preview the production build
 npm test           # run the safety / data-integrity test suite
+npm run validate   # standalone corpus QA (schema + safety rules)
 ```
 
 ## Tests
@@ -128,5 +156,7 @@ things, that:
 3. ✅ Build search/browse UI with the suppression behavior, and **verify** a
    symptom search does not surface a critical entry (unit tests + an automated
    browser pass).
-4. ✅ Scale up the corpus from both sources (now 43 entries), each held to the
-   same flagging rigor and re-verified by the safety harness.
+4. ✅ Scale up the corpus (now 88 entries) via a repeatable, self-validating
+   transcription pipeline, each entry held to the same flagging rigor and
+   re-verified by the safety harness (unit invariants + an automated browser
+   pass).

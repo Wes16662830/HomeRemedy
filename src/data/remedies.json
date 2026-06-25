@@ -1402,5 +1402,1458 @@
       "notes": "A sage gargle or culinary use is low-risk, but sage contains thujone, so strong sage tea taken in quantity over time, and especially sage essential oil, can be harmful and (in oil form) trigger seizures. Medicinal-strength internal use is avoided in pregnancy and while breastfeeding (it can reduce milk supply).",
       "modern_evidence_status": "Sage gargles/sprays have some modern evidence for sore throat; the thujone caution applies to strong or prolonged internal use and to the essential oil."
     }
+  },
+  {
+    "id": "culpeper-lemonbalm",
+    "name": "Balm (Lemon Balm)",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Balm",
+        "modern_equivalent": "Melissa officinalis (lemon balm)"
+      }
+    ],
+    "preparation_as_written": "The text describes the leaves infused in water or wine and the warm drink taken.",
+    "symptoms_addressed_as_written": "Culpeper writes that balm comforts the heart and stomach, drives away melancholy, and helps digestion and wind.",
+    "symptom_tags": [
+      "indigestion",
+      "wind",
+      "low spirits",
+      "restlessness",
+      "upset stomach",
+      "anxiety"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A mild culinary and tea herb, low-risk for most people at tea strength.",
+      "modern_evidence_status": "Some modest modern evidence for mild calming effects and for digestive comfort; studies are small."
+    }
+  },
+  {
+    "id": "culpeper-dill",
+    "name": "Dill",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Dill",
+        "modern_equivalent": "Anethum graveolens (dill)"
+      }
+    ],
+    "preparation_as_written": "The text describes the seed boiled in water and the liquor taken, and the herb eaten.",
+    "symptoms_addressed_as_written": "Culpeper writes that dill stays the belly from wind and gripings, eases the stomach, and stops hiccups.",
+    "symptom_tags": [
+      "wind",
+      "gas",
+      "colic",
+      "indigestion",
+      "hiccups",
+      "bloating"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A common culinary herb, low-risk at food and tea strength for most people.",
+      "modern_evidence_status": "Traditional carminative; 'dill water' has long folk use for infant wind, but rigorous modern evidence is limited."
+    }
+  },
+  {
+    "id": "culpeper-barberry",
+    "name": "Barberry",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Barberry",
+        "modern_equivalent": "Berberis vulgaris (barberry); bark and berry"
+      }
+    ],
+    "preparation_as_written": "The text describes the bark and berries boiled, and the sharp berries used in conserves, the liquor taken for the stomach and liver.",
+    "symptoms_addressed_as_written": "Culpeper writes that barberry cools a hot stomach and liver, helps a yellow complexion (jaundice), and stays looseness and heat in the body.",
+    "symptom_tags": [
+      "indigestion",
+      "liver",
+      "jaundice",
+      "heartburn",
+      "poor appetite"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Barberry contains berberine. Small culinary amounts of the berry are low-risk, but medicinal doses of the bark/root can upset the stomach, lower blood sugar and blood pressure, and berberine interacts with several medicines. It is avoided in pregnancy because it can stimulate the uterus.",
+      "modern_evidence_status": "Berberine (the active compound) has some modern evidence for blood sugar and cholesterol, but with real interaction and pregnancy cautions; the whole-herb historical uses are less studied."
+    }
+  },
+  {
+    "id": "culpeper-chickweed",
+    "name": "Chickweed",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Chickweed",
+        "modern_equivalent": "Stellaria media (common chickweed)"
+      }
+    ],
+    "preparation_as_written": "The text describes the bruised herb laid on the skin and boiled into an ointment.",
+    "symptoms_addressed_as_written": "Culpeper writes that chickweed cools hot, red swellings and itching, and an ointment of it helps sores and inflammations.",
+    "symptom_tags": [
+      "itching",
+      "rash",
+      "skin inflammation",
+      "sores",
+      "hot swelling",
+      "eczema"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A mild cooling skin herb, low-risk applied to minor irritation for most people.",
+      "modern_evidence_status": "Largely traditional use; little formal modern evidence, though it is a common ingredient in soothing skin balms."
+    }
+  },
+  {
+    "id": "culpeper-solomonsseal",
+    "name": "Solomon's Seal",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Solomon's Seal",
+        "modern_equivalent": "Polygonatum species (Solomon's seal) root"
+      }
+    ],
+    "preparation_as_written": "The text describes the root bruised and applied as a poultice, and the distilled water used on the skin.",
+    "symptoms_addressed_as_written": "Culpeper writes that Solomon's seal closes and heals wounds, and that it is famous for taking away bruises and the marks of blows and falls.",
+    "symptom_tags": [
+      "bruises",
+      "wounds",
+      "swelling",
+      "minor injury",
+      "black eye"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "Traditionally used on the skin for bruises; low-risk topically for most people on minor injuries. The raw berries are not for eating.",
+      "modern_evidence_status": "Mostly traditional use; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-sanicle",
+    "name": "Sanicle",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Sanicle",
+        "modern_equivalent": "Sanicula europaea (wood sanicle)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled and used as a wash and drink for wounds.",
+    "symptoms_addressed_as_written": "Culpeper writes that sanicle heals green wounds and ulcers, inward and outward, and stays bleeding.",
+    "symptom_tags": [
+      "wounds",
+      "ulcers",
+      "sores",
+      "bleeding",
+      "minor cuts"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional wound herb, low-risk for most people on minor, clean wounds.",
+      "modern_evidence_status": "Largely traditional; limited modern evidence."
+    }
+  },
+  {
+    "id": "culpeper-cleavers",
+    "name": "Cleavers (Goosegrass)",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Clivers / Goosegrass",
+        "modern_equivalent": "Galium aparine (cleavers)"
+      }
+    ],
+    "preparation_as_written": "The text describes the juice taken and the herb boiled, used inwardly and on the skin.",
+    "symptoms_addressed_as_written": "Culpeper writes that cleavers cleanses the blood and skin, helps scabby eruptions, and the juice was used for the complexion.",
+    "symptom_tags": [
+      "skin eruptions",
+      "rash",
+      "scabby skin",
+      "swollen glands",
+      "complexion"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A mild traditional skin and lymphatic herb, low-risk for most people.",
+      "modern_evidence_status": "Mostly traditional 'blood-cleansing' use; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-walnut",
+    "name": "Walnut",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Walnut (leaves and green husks)",
+        "modern_equivalent": "Juglans regia (English walnut)"
+      }
+    ],
+    "preparation_as_written": "The text describes the leaves and green outer husks boiled and used as a wash, and the kernels eaten.",
+    "symptoms_addressed_as_written": "Culpeper writes that the leaves and husks are used to cleanse the skin of scabs and spreading sores, and against worms.",
+    "symptom_tags": [
+      "skin eruptions",
+      "scabby skin",
+      "sores",
+      "ringworm",
+      "rash"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "Walnut leaf/husk washes are low-risk on intact skin for most people; the husk stains skin strongly. People with tree-nut allergy should be cautious.",
+      "modern_evidence_status": "Largely traditional; some laboratory evidence for astringent and antimicrobial activity of the leaf."
+    }
+  },
+  {
+    "id": "culpeper-cucumber",
+    "name": "Cucumber",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Cucumbers",
+        "modern_equivalent": "Cucumis sativus (cucumber)"
+      }
+    ],
+    "preparation_as_written": "The text describes the cool pulp and juice laid on the face and skin, and the seeds used in cooling drinks.",
+    "symptoms_addressed_as_written": "Culpeper writes that cucumber cools hot, inflamed and sunburnt skin and helps a red, pimpled face.",
+    "symptom_tags": [
+      "sunburn",
+      "hot skin",
+      "red face",
+      "skin inflammation",
+      "pimples"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A food, low-risk applied to the skin or eaten for most people.",
+      "modern_evidence_status": "Cooling effect is real but largely from moisture; little specific modern medical evidence beyond soothing."
+    }
+  },
+  {
+    "id": "culpeper-dock",
+    "name": "Dock (Yellow Dock)",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Dock",
+        "modern_equivalent": "Rumex species, especially Rumex crispus (yellow/curled dock)"
+      }
+    ],
+    "preparation_as_written": "The text describes the leaves laid on the skin (famously rubbed on nettle stings), and the root boiled and taken inwardly.",
+    "symptoms_addressed_as_written": "Culpeper writes that dock leaves ease nettle stings and that the root cleanses the blood, helps scabby skin (the itch), and gently loosens the belly.",
+    "symptom_tags": [
+      "nettle sting",
+      "skin eruptions",
+      "itch",
+      "scabby skin",
+      "constipation",
+      "rash"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Leaf used on the skin is low-risk, but the root is a mild laxative and dock is high in oxalates; large or prolonged amounts are best avoided, especially by people prone to kidney stones, and it is generally avoided in pregnancy.",
+      "modern_evidence_status": "Traditional 'alterative' and mild laxative use; limited modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-marshmallow",
+    "name": "Marsh Mallow",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Marsh Mallows",
+        "modern_equivalent": "Althaea officinalis (marshmallow) root and leaf"
+      }
+    ],
+    "preparation_as_written": "The text describes the slimy root and leaves boiled to a soothing drink, and made into a poultice for the skin.",
+    "symptoms_addressed_as_written": "Culpeper writes that marshmallow softens and soothes, eases a cough and rough throat, and that a poultice eases hard swellings and inflammations.",
+    "symptom_tags": [
+      "cough",
+      "sore throat",
+      "hoarseness",
+      "dry throat",
+      "skin inflammation",
+      "chest"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A gentle soothing (demulcent) herb, low-risk for most people. Because its mucilage can coat the gut, it is sensibly taken apart in time from other medicines so it does not slow their absorption.",
+      "modern_evidence_status": "Some modern evidence for soothing dry cough and throat irritation via its mucilage; well regarded as a demulcent."
+    }
+  },
+  {
+    "id": "culpeper-maidenhair",
+    "name": "Maidenhair",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Maidenhair",
+        "modern_equivalent": "Adiantum capillus-veneris (maidenhair fern); the name was also used for related ferns"
+      }
+    ],
+    "preparation_as_written": "The text describes the fern boiled in water, often made into a syrup with sugar, and taken for the chest.",
+    "symptoms_addressed_as_written": "Culpeper writes that maidenhair helps coughs, shortness of breath, and brings up phlegm from the chest.",
+    "symptom_tags": [
+      "cough",
+      "phlegm",
+      "shortness of breath",
+      "chest congestion",
+      "hoarseness"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional cough fern, generally low-risk as a tea/syrup for most people. The historical name covered several ferns, so identity in old recipes can be uncertain.",
+      "modern_evidence_status": "Largely traditional; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-groundivy",
+    "name": "Ground Ivy (Alehoof)",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Ground Ivy / Alehoof / Gill-go-by-the-ground",
+        "modern_equivalent": "Glechoma hederacea (ground ivy)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled in water, formerly used to clear ale, and the liquor taken for the chest.",
+    "symptoms_addressed_as_written": "Culpeper writes that ground ivy helps a cough and the diseases of the lungs, and clears tough phlegm.",
+    "symptom_tags": [
+      "cough",
+      "phlegm",
+      "chest congestion",
+      "blocked nose",
+      "shortness of breath"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional chest herb, low-risk as a tea for most people; large medicinal amounts are best avoided in pregnancy.",
+      "modern_evidence_status": "Mostly traditional use; limited modern evidence."
+    }
+  },
+  {
+    "id": "culpeper-woodsorrel",
+    "name": "Wood Sorrel",
+    "category": "fever & infection",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Wood Sorrel / Cuckoo's Meat",
+        "modern_equivalent": "Oxalis acetosella (wood sorrel)"
+      }
+    ],
+    "preparation_as_written": "The text describes the sharp, sour leaves made into a cooling drink or 'green sauce'.",
+    "symptoms_addressed_as_written": "Culpeper writes that wood sorrel cools a hot, feverish stomach, quenches thirst in fevers, and strengthens a weak stomach against vomiting.",
+    "symptom_tags": [
+      "fever",
+      "thirst",
+      "hot stomach",
+      "nausea",
+      "low appetite"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A sharp, sorrel-like leaf, fine in small culinary amounts. Like other sorrels it is high in oxalic acid, so large quantities are best avoided, especially by people prone to kidney stones.",
+      "modern_evidence_status": "Traditional cooling/thirst use; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-feverfew",
+    "name": "Feverfew",
+    "category": "fever & infection",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Feverfew",
+        "modern_equivalent": "Tanacetum parthenium (feverfew)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled and taken, and applied outwardly.",
+    "symptoms_addressed_as_written": "Culpeper writes that feverfew is good for pains in the head, helps agues (fevers), and was used for women's complaints.",
+    "symptom_tags": [
+      "headache",
+      "migraine",
+      "fever",
+      "head pain"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Best known today for migraine. It can cause mouth ulcers and irritation when the fresh leaf is chewed, and stopping it suddenly after regular use can cause rebound headaches. It can add to blood-thinning medicines, the daisy-allergic may react, and it is avoided in pregnancy (it can stimulate the uterus).",
+      "modern_evidence_status": "There is some modern evidence for standardised feverfew in preventing migraine; the cautions above are well recognised."
+    }
+  },
+  {
+    "id": "culpeper-meadowsweet",
+    "name": "Meadowsweet",
+    "category": "fever & infection",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Meadow-sweet / Queen of the Meadows",
+        "modern_equivalent": "Filipendula ulmaria (meadowsweet)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb and flowers boiled in water or wine and the liquor taken.",
+    "symptoms_addressed_as_written": "Culpeper writes that meadowsweet helps agues (fevers), eases pains, and comforts the stomach and a looseness of the belly.",
+    "symptom_tags": [
+      "fever",
+      "aches",
+      "pain",
+      "upset stomach",
+      "heartburn"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Meadowsweet naturally contains salicylates — the aspirin-like compounds. For that reason it carries aspirin's cautions: it should not be given to children or teenagers (risk of Reye's syndrome), and is avoided by people with aspirin/salicylate allergy, asthma triggered by aspirin, ulcers, or on blood thinners.",
+      "modern_evidence_status": "Traditional use for fever, pain and stomach upset is consistent with its salicylate content, but it carries the same risks as aspirin and lacks controlled dosing."
+    }
+  },
+  {
+    "id": "culpeper-willow",
+    "name": "Willow Bark",
+    "category": "fever & infection",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Willow (the bark and leaves)",
+        "modern_equivalent": "Salix species (willow) bark"
+      }
+    ],
+    "preparation_as_written": "The text describes the bark and leaves boiled in water and the liquor taken, and applied outwardly.",
+    "symptoms_addressed_as_written": "Culpeper writes that willow cools heat and fevers, stays bleeding, and that the bark was used to ease pains and inflammations.",
+    "symptom_tags": [
+      "fever",
+      "pain",
+      "aches",
+      "inflammation",
+      "headache"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Willow bark is the original natural source of the aspirin-like salicylates. It therefore carries aspirin's cautions: not for children or teenagers (Reye's syndrome risk), and avoided by people with salicylate/aspirin allergy, ulcers, asthma triggered by aspirin, or taking blood thinners. Home preparations have an unknown, variable strength.",
+      "modern_evidence_status": "Standardised willow-bark extracts have some modern evidence for low-back and joint pain, but with the same risk profile as aspirin and without reliable home dosing."
+    }
+  },
+  {
+    "id": "culpeper-blessedthistle",
+    "name": "Blessed Thistle",
+    "category": "fever & infection",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Carduus Benedictus / Blessed Thistle",
+        "modern_equivalent": "Cnicus benedictus (blessed thistle)"
+      }
+    ],
+    "preparation_as_written": "The text describes the very bitter herb boiled and the liquor taken, and used in plague time as a sweating, strengthening drink.",
+    "symptoms_addressed_as_written": "Culpeper writes that blessed thistle strengthens the stomach and helps digestion, provokes sweat in fevers, and was esteemed against infection and the plague.",
+    "symptom_tags": [
+      "fever",
+      "poor appetite",
+      "weak stomach",
+      "indigestion",
+      "infection"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "A strong bitter. Small amounts stimulate appetite, but larger doses can cause vomiting. It is avoided in pregnancy, and people allergic to the daisy family may react.",
+      "modern_evidence_status": "Traditional bitter and 'sweating' herb; little rigorous modern clinical evidence, and large doses are deliberately emetic."
+    }
+  },
+  {
+    "id": "culpeper-valerian",
+    "name": "Valerian",
+    "category": "pain & sleep",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Valerian / Setwall",
+        "modern_equivalent": "Valeriana officinalis (valerian) root"
+      }
+    ],
+    "preparation_as_written": "The text describes the root boiled or steeped and the liquor taken.",
+    "symptoms_addressed_as_written": "Culpeper writes that valerian was used to ease pains, to help those troubled in sleep, and against the trembling and shaking of the body.",
+    "symptom_tags": [
+      "sleeplessness",
+      "insomnia",
+      "restlessness",
+      "anxiety",
+      "nervous tension"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "A traditional sedative herb. It is generally mild, but it can add to the drowsiness of alcohol, sleeping tablets, sedatives and some painkillers, so it should not be combined with them or taken before driving. Safety in pregnancy is not established.",
+      "modern_evidence_status": "Mixed modern evidence for mild improvement in sleep; the interaction with other sedatives is the main practical caution."
+    }
+  },
+  {
+    "id": "culpeper-betony",
+    "name": "Wood Betony",
+    "category": "pain & sleep",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Wood Betony",
+        "modern_equivalent": "Betonica officinalis (wood betony), formerly Stachys officinalis"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled in water or wine and the liquor taken, and the powder snuffed.",
+    "symptoms_addressed_as_written": "Culpeper writes that betony is good for pains and aches of the head, comforts the stomach, and was greatly esteemed as a general strengthening herb.",
+    "symptom_tags": [
+      "headache",
+      "head pain",
+      "indigestion",
+      "nervous tension",
+      "anxiety"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional tea herb, low-risk for most people at tea strength; large medicinal amounts are best avoided in pregnancy.",
+      "modern_evidence_status": "Largely traditional; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-vervain",
+    "name": "Vervain",
+    "category": "pain & sleep",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Vervain",
+        "modern_equivalent": "Verbena officinalis (common vervain)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled and the liquor taken, and applied outwardly.",
+    "symptoms_addressed_as_written": "Culpeper writes that vervain helps headaches and the pains of the head, eases nervous complaints, and was used for many disorders.",
+    "symptom_tags": [
+      "headache",
+      "nervous tension",
+      "anxiety",
+      "restlessness",
+      "sleeplessness"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Generally mild, but vervain has a traditional reputation for stimulating the uterus and is therefore avoided in pregnancy. It may also mildly affect blood pressure.",
+      "modern_evidence_status": "Mostly traditional use; little modern clinical evidence, with the pregnancy caution widely repeated."
+    }
+  },
+  {
+    "id": "culpeper-lavender",
+    "name": "Lavender",
+    "category": "pain & sleep",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Lavender",
+        "modern_equivalent": "Lavandula angustifolia (lavender)"
+      }
+    ],
+    "preparation_as_written": "The text describes the flowers infused, the distilled water used, and the herb worn and smelled.",
+    "symptoms_addressed_as_written": "Culpeper writes that lavender comforts the head and brain, eases the pains and griefs of the head, and was used for faintness and low spirits.",
+    "symptom_tags": [
+      "headache",
+      "low spirits",
+      "restlessness",
+      "sleeplessness",
+      "anxiety",
+      "faintness"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "Lavender as a tea, dried flowers or aroma is low-risk for most people. Concentrated lavender essential oil is a separate, much stronger product that should not be swallowed.",
+      "modern_evidence_status": "Some modern evidence for mild anxiety relief (including a standardised oral capsule); aroma effects are modest."
+    }
+  },
+  {
+    "id": "culpeper-hops",
+    "name": "Hops",
+    "category": "pain & sleep",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Hops",
+        "modern_equivalent": "Humulus lupulus (hops)"
+      }
+    ],
+    "preparation_as_written": "The text describes the young shoots eaten and the flowers boiled, the liquor taken to cleanse the blood.",
+    "symptoms_addressed_as_written": "Culpeper writes that hops open obstructions of the liver and spleen, cleanse the blood, and help a feverish heat; hops were also long valued to ease rest and sleep.",
+    "symptom_tags": [
+      "sleeplessness",
+      "restlessness",
+      "poor appetite",
+      "liver",
+      "nervous tension"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional sleep and bitter herb, low-risk for most people; it can add mildly to the drowsiness of sedatives. Pickers sometimes get a skin rash from the fresh plant.",
+      "modern_evidence_status": "Some traditional and limited modern support for mild sedative effects, often combined with valerian."
+    }
+  },
+  {
+    "id": "culpeper-cowslip",
+    "name": "Cowslip",
+    "category": "pain & sleep",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Cowslips / Paigles",
+        "modern_equivalent": "Primula veris (cowslip)"
+      }
+    ],
+    "preparation_as_written": "The text describes the flowers made into a wine or syrup, and the distilled water used.",
+    "symptoms_addressed_as_written": "Culpeper writes that cowslip flowers ease pains of the head, help those troubled in sleep, and were used to quiet the nerves and for the palsy.",
+    "symptom_tags": [
+      "sleeplessness",
+      "restlessness",
+      "headache",
+      "nervous tension",
+      "anxiety"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional gentle flower remedy, low-risk for most people. People allergic to primula may get a skin reaction, and it is best avoided in pregnancy and with blood thinners (it contains small amounts of salicylates).",
+      "modern_evidence_status": "Mostly traditional use; little modern clinical evidence for the flowers."
+    }
+  },
+  {
+    "id": "culpeper-mandrake",
+    "name": "Mandrake",
+    "category": "pain & sleep",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Mandrake / Mandragora",
+        "modern_equivalent": "Mandragora officinarum (mandrake)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the root used outwardly and notes its dangerous, stupefying power; old surgery used it to dull pain and bring sleep, with great risk.",
+    "symptoms_addressed_as_written": "Culpeper presents mandrake as a cooling, narcotic plant once used to bring deep sleep and deaden pain, while stressing that it is dangerous and not to be meddled with.",
+    "symptom_tags": [
+      "pain",
+      "sleeplessness",
+      "insomnia",
+      "anaesthesia"
+    ],
+    "modern_caution": {
+      "flag_level": "critical",
+      "notes": "Mandrake contains the same deadly tropane alkaloids as deadly nightshade and henbane. It can cause delirium, a racing heart, breathing failure, coma and death, and the gap between a sleep-inducing amount and a lethal one is dangerously small. There is no safe home use.",
+      "modern_evidence_status": "Of historical interest as an early anaesthetic, but it has no safe home use today and is a documented cause of serious poisoning."
+    }
+  },
+  {
+    "id": "culpeper-tansy",
+    "name": "Tansy",
+    "category": "women's health",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Tansy",
+        "modern_equivalent": "Tanacetum vulgare (tansy)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the herb boiled or beaten into 'tansies' (cakes), and notes its use to 'bring down the courses' (provoke menstruation) and against worms.",
+    "symptoms_addressed_as_written": "Culpeper presents tansy to provoke women's courses, to expel worms, and to ease gripings of the belly.",
+    "symptom_tags": [
+      "provoke courses",
+      "bring on menstruation",
+      "induce miscarriage",
+      "missed period",
+      "worms",
+      "abortion"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "Tansy contains thujone and is toxic in the amounts historically used to bring on menstruation or end pregnancy. It can cause vomiting, seizures, organ damage and has caused deaths, including in attempted self-abortion. It must not be used in pregnancy or for self-directed internal use, and the oil is especially dangerous.",
+      "modern_evidence_status": "No safe modern internal use is recommended; poisoning and fatalities, including from attempted abortion, are documented."
+    }
+  },
+  {
+    "id": "culpeper-mugwort",
+    "name": "Mugwort",
+    "category": "women's health",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Mugwort",
+        "modern_equivalent": "Artemisia vulgaris (mugwort)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the herb boiled and the liquor taken, and notes its long use to 'bring down the courses' and ease women's complaints.",
+    "symptoms_addressed_as_written": "Culpeper presents mugwort to provoke women's courses, help the delivery of the afterbirth, and ease cramps and gripings of the belly.",
+    "symptom_tags": [
+      "provoke courses",
+      "bring on menstruation",
+      "induce miscarriage",
+      "missed period",
+      "afterbirth",
+      "cramps"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "Mugwort is a uterine stimulant traditionally used to bring on menstruation, and it contains thujone. It must not be used in pregnancy, where it carries a miscarriage risk, and self-directed internal use to affect periods is unsafe. It is also a common cause of hay-fever-type and skin allergy.",
+      "modern_evidence_status": "Mostly traditional use; the uterine-stimulant and pregnancy risks are well recognised, and there is no safe self-directed internal use for the historical menstrual purposes."
+    }
+  },
+  {
+    "id": "culpeper-motherwort",
+    "name": "Motherwort",
+    "category": "women's health",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Motherwort",
+        "modern_equivalent": "Leonurus cardiaca (motherwort)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled and the liquor or a conserve taken.",
+    "symptoms_addressed_as_written": "Culpeper writes that motherwort makes a merry, cheerful soul, settles a trembling heart and palpitations, and was used to help women in childbearing.",
+    "symptom_tags": [
+      "palpitations",
+      "anxiety",
+      "nervous tension",
+      "menstrual complaints",
+      "racing heart"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "A traditional heart-calming and women's herb. It is a uterine stimulant and so is avoided in pregnancy, and because it can affect heart rhythm and add to heart and blood-thinning medicines, anyone with heart problems should not self-treat with it.",
+      "modern_evidence_status": "Limited modern evidence; mostly traditional use, with recognised cautions in pregnancy and for people on heart medication."
+    }
+  },
+  {
+    "id": "culpeper-savin",
+    "name": "Savin",
+    "category": "women's health",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Savine",
+        "modern_equivalent": "Juniperus sabina (savin juniper)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the dried leaves powdered and the herb used, and records its notorious use to 'force the courses' and expel the dead child — a use already known to be highly dangerous.",
+    "symptoms_addressed_as_written": "Culpeper presents savin to provoke women's courses and expel the afterbirth or dead child, and outwardly against worms and skin growths.",
+    "symptom_tags": [
+      "provoke courses",
+      "induce miscarriage",
+      "abortion",
+      "bring on menstruation",
+      "afterbirth",
+      "missed period"
+    ],
+    "modern_caution": {
+      "flag_level": "critical",
+      "notes": "Savin was historically one of the most infamous abortion herbs, and one of the most lethal. The amount needed to affect a pregnancy is close to the amount that causes violent poisoning, kidney damage and death; it has killed many women in attempted self-abortion. There is no safe dose for any purpose. A missed period or pregnancy concern is a matter for a healthcare professional, never this plant.",
+      "modern_evidence_status": "No legitimate modern use; the medical and historical record documents severe poisoning and death, especially from attempted abortion."
+    }
+  },
+  {
+    "id": "culpeper-birthwort",
+    "name": "Birthwort",
+    "category": "women's health",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Birthwort",
+        "modern_equivalent": "Aristolochia species (birthwort)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the root used to help expel the afterbirth and cleanse the womb, and applied to foul wounds and ulcers.",
+    "symptoms_addressed_as_written": "Culpeper presents birthwort to bring away the afterbirth and 'cleanse' the womb after childbirth, and outwardly to cleanse old sores and ulcers.",
+    "symptom_tags": [
+      "afterbirth",
+      "provoke courses",
+      "induce miscarriage",
+      "womb cleansing",
+      "old sores"
+    ],
+    "modern_caution": {
+      "flag_level": "critical",
+      "notes": "Birthwort contains aristolochic acid, which is now confirmed to be a potent cause of cancer and of irreversible kidney failure — large groups of people have suffered kidney destruction and urinary-tract cancer from products containing it. There is no safe amount, and it is banned for medicinal use in many countries. It must never be used.",
+      "modern_evidence_status": "Modern evidence is decisively negative on safety: aristolochic acid is an established human carcinogen and nephrotoxin, and the plant is prohibited for medicinal use in many jurisdictions."
+    }
+  },
+  {
+    "id": "culpeper-raspberryleaf",
+    "name": "Raspberry Leaf",
+    "category": "women's health",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Raspis / Raspberry (the leaves)",
+        "modern_equivalent": "Rubus idaeus (raspberry) leaf"
+      }
+    ],
+    "preparation_as_written": "The text describes the leaves boiled in water and used as a wash and a drink.",
+    "symptoms_addressed_as_written": "Culpeper writes that raspberry leaves are binding and were used as a wash for sores of the mouth and as a strengthening drink for women.",
+    "symptom_tags": [
+      "menstrual complaints",
+      "mouth sores",
+      "sore throat",
+      "looseness",
+      "pregnancy tonic"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Raspberry leaf tea is generally mild, but because it can act on the uterus it is traditionally reserved for the later weeks of pregnancy and under midwife or medical guidance — not for early pregnancy or for trying to affect a period on your own.",
+      "modern_evidence_status": "Limited and mixed modern evidence for use in late pregnancy/labour preparation; widely used but not strongly proven."
+    }
+  },
+  {
+    "id": "culpeper-parsley",
+    "name": "Parsley",
+    "category": "urinary",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Parsley",
+        "modern_equivalent": "Petroselinum crispum (parsley)"
+      }
+    ],
+    "preparation_as_written": "The text describes the root and seed boiled in water and the liquor taken, and the herb eaten.",
+    "symptoms_addressed_as_written": "Culpeper writes that parsley provokes urine, opens obstructions, eases the stone and wind, and 'provokes the courses'.",
+    "symptom_tags": [
+      "water retention",
+      "urine",
+      "kidney",
+      "wind",
+      "bloating",
+      "provoke courses"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Eating parsley as a food or garnish is low-risk. But concentrated parsley seed, oil, or large medicinal amounts act strongly on the kidneys and uterus and have historically been used to try to bring on periods or end pregnancy; in those amounts they can harm the kidneys and are unsafe, and are avoided in pregnancy and in kidney disease.",
+      "modern_evidence_status": "Culinary use is safe and the diuretic effect is real but mild; the concentrated medicinal/abortifacient uses are unsafe and not recommended."
+    }
+  },
+  {
+    "id": "culpeper-juniper",
+    "name": "Juniper",
+    "category": "urinary",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Juniper Bush (the berries)",
+        "modern_equivalent": "Juniperus communis (juniper) berry"
+      }
+    ],
+    "preparation_as_written": "The text describes the berries boiled in water and the liquor taken, and used in strong waters and against wind.",
+    "symptoms_addressed_as_written": "Culpeper writes that juniper berries provoke urine, expel wind, help the stone and were thought to strengthen the stomach and resist infection.",
+    "symptom_tags": [
+      "water retention",
+      "urine",
+      "kidney",
+      "wind",
+      "bloating",
+      "provoke courses"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "A few juniper berries as a culinary flavouring are fine, but in the larger amounts used medicinally, and especially as the oil, juniper irritates the kidneys and stimulates the uterus. It is unsafe for people with kidney disease, should not be used in pregnancy (historical abortifacient use), and prolonged use can damage the kidneys.",
+      "modern_evidence_status": "Recognised mild diuretic at culinary levels; medicinal/oil doses carry kidney and pregnancy risks and are not recommended."
+    }
+  },
+  {
+    "id": "culpeper-pellitory",
+    "name": "Pellitory of the Wall",
+    "category": "urinary",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Pellitory of the Wall",
+        "modern_equivalent": "Parietaria officinalis / Parietaria judaica (pellitory-of-the-wall)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled in water and the liquor taken, and used as a poultice.",
+    "symptoms_addressed_as_written": "Culpeper writes that pellitory provokes urine, eases the stone and a stoppage of water, and that a poultice eases hot swellings.",
+    "symptom_tags": [
+      "water retention",
+      "urine",
+      "kidney",
+      "bladder",
+      "hot swelling"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional mild diuretic herb, low-risk for most people, though it is a notorious hay-fever pollen plant and the allergic may react to handling it.",
+      "modern_evidence_status": "Mostly traditional diuretic use; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-horsetail",
+    "name": "Horsetail",
+    "category": "urinary",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Horsetail",
+        "modern_equivalent": "Equisetum arvense (field horsetail); not the toxic marsh horsetail, Equisetum palustre"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled in water and the liquor taken, and applied to wounds.",
+    "symptoms_addressed_as_written": "Culpeper writes that horsetail stays bleeding, provokes urine, and that it heals wounds and ulcers, inward and outward.",
+    "symptom_tags": [
+      "urine",
+      "water retention",
+      "bleeding",
+      "wounds",
+      "kidney",
+      "bladder"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "A traditional diuretic and wound herb. It contains an enzyme (thiaminase) that can deplete vitamin B1 with prolonged use, so it is not for long-term use, for children, or for people who drink heavily or are poorly nourished. Correct identification matters — the similar marsh horsetail is toxic.",
+      "modern_evidence_status": "Limited modern evidence for a mild diuretic effect; the thiaminase and species-identity cautions are well recognised."
+    }
+  },
+  {
+    "id": "culpeper-nettle",
+    "name": "Nettle",
+    "category": "urinary",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Nettles",
+        "modern_equivalent": "Urtica dioica (stinging nettle)"
+      }
+    ],
+    "preparation_as_written": "The text describes the young tops boiled and eaten or made into a drink, and the juice taken.",
+    "symptoms_addressed_as_written": "Culpeper writes that nettles provoke urine, open obstructions, cleanse the blood, help the chest and were used to stay bleeding.",
+    "symptom_tags": [
+      "water retention",
+      "urine",
+      "kidney",
+      "skin eruptions",
+      "bleeding",
+      "spring tonic"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Cooked nettle (the sting is destroyed by cooking) is a nutritious food. As a medicinal it is a mild diuretic and may add to the effect of blood-pressure, water (diuretic), blood-sugar and blood-thinning medicines, so people on those should be cautious; medicinal-strength use is generally avoided in pregnancy. The fresh plant stings.",
+      "modern_evidence_status": "Some modern evidence for nettle in hay fever and (the root) in benign prostate symptoms; the interaction cautions are sensible."
+    }
+  },
+  {
+    "id": "culpeper-broom",
+    "name": "Broom",
+    "category": "urinary",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Broom (the flowers, seed and tops)",
+        "modern_equivalent": "Cytisus scoparius (common broom), formerly Sarothamnus scoparius"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the flowers, seed and tops boiled and the liquor taken to purge and provoke urine.",
+    "symptoms_addressed_as_written": "Culpeper presents broom to provoke urine strongly, to purge watery humours (dropsy), and to cleanse the kidneys.",
+    "symptom_tags": [
+      "water retention",
+      "dropsy",
+      "urine",
+      "kidney",
+      "swelling",
+      "purge"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "Broom contains sparteine and related compounds that act powerfully on the heart's rhythm and stimulate the uterus. In medicinal amounts it can slow or disturb the heartbeat and is dangerous for people with heart problems or high blood pressure; it must not be used in pregnancy, and it can interact badly with certain medicines (including MAOI antidepressants).",
+      "modern_evidence_status": "Its active compound sparteine was once a regulated heart drug, but the whole-herb home use is unsafe and not recommended."
+    }
+  },
+  {
+    "id": "culpeper-tormentil",
+    "name": "Tormentil",
+    "category": "mouth & throat",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Tormentil / Septfoil",
+        "modern_equivalent": "Potentilla erecta (tormentil) root"
+      }
+    ],
+    "preparation_as_written": "The text describes the very astringent root boiled in water or wine and used as a wash, gargle and drink.",
+    "symptoms_addressed_as_written": "Culpeper writes that tormentil is exceedingly binding, stays all kinds of fluxes (looseness) and bleeding, and fastens loose teeth and gums as a wash.",
+    "symptom_tags": [
+      "diarrhoea",
+      "looseness",
+      "bleeding gums",
+      "loose teeth",
+      "mouth sores",
+      "sore throat"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A strongly astringent (tannin-rich) root, low-risk as an occasional mouth rinse or gargle for most people. Its high tannin content can upset the stomach if a lot is swallowed, and tannins can reduce iron absorption if taken with meals.",
+      "modern_evidence_status": "Traditional astringent use for looseness and mouth complaints; limited modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-bistort",
+    "name": "Bistort (Snakeweed)",
+    "category": "mouth & throat",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Bistort / Snakeweed",
+        "modern_equivalent": "Bistorta officinalis (bistort), formerly Polygonum bistorta"
+      }
+    ],
+    "preparation_as_written": "The text describes the astringent root boiled and used as a gargle and wash, and taken inwardly.",
+    "symptoms_addressed_as_written": "Culpeper writes that bistort is very binding, stays looseness and bleeding, and that a gargle helps sore mouths, gums and throats.",
+    "symptom_tags": [
+      "sore throat",
+      "mouth sores",
+      "bleeding gums",
+      "diarrhoea",
+      "looseness"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "Another tannin-rich astringent root, low-risk as an occasional gargle or wash for most people; large swallowed amounts of tannins can upset the stomach and reduce iron absorption.",
+      "modern_evidence_status": "Traditional astringent use; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-agrimony",
+    "name": "Agrimony",
+    "category": "mouth & throat",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Agrimony",
+        "modern_equivalent": "Agrimonia eupatoria (agrimony)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled in water or wine and used as a gargle and drink, and applied to wounds.",
+    "symptoms_addressed_as_written": "Culpeper writes that agrimony is good for the liver, helps sore throats as a gargle, and cleanses and heals wounds.",
+    "symptom_tags": [
+      "sore throat",
+      "mouth sores",
+      "wounds",
+      "liver",
+      "looseness"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A mild astringent herb, low-risk as a tea or gargle for most people. It contains some tannins and a little vitamin K, so people on blood thinners may wish to be consistent; large medicinal amounts are best avoided in pregnancy.",
+      "modern_evidence_status": "Mostly traditional astringent and gargle use; limited modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-sloe",
+    "name": "Sloe (Blackthorn)",
+    "category": "mouth & throat",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Sloes / Blackthorn",
+        "modern_equivalent": "Prunus spinosa (blackthorn); the fruit, flowers and bark"
+      }
+    ],
+    "preparation_as_written": "The text describes the sharp unripe fruit and the flowers and bark boiled, the liquor used as a binding gargle and drink.",
+    "symptoms_addressed_as_written": "Culpeper writes that sloes are very binding, that the juice stays looseness and bleeding, and a gargle helps a relaxed, sore throat and mouth.",
+    "symptom_tags": [
+      "sore throat",
+      "mouth sores",
+      "diarrhoea",
+      "looseness",
+      "bleeding gums"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "The astringent fruit and flowers are low-risk as an occasional gargle or in conserves for most people. As with related stone fruits, the kernels inside the stones contain cyanide-forming compounds and should not be crushed and eaten.",
+      "modern_evidence_status": "Traditional astringent use; little modern clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-hawthorn",
+    "name": "Hawthorn",
+    "category": "circulatory & heart",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Hawthorn (the berries and flowers)",
+        "modern_equivalent": "Crataegus monogyna / Crataegus laevigata (hawthorn)"
+      }
+    ],
+    "preparation_as_written": "The text describes the berries and flowers boiled or steeped and the liquor taken.",
+    "symptoms_addressed_as_written": "Culpeper writes that hawthorn was used to ease an over-stretched or troubled heart and to help the 'dropsy' and stitches in the side.",
+    "symptom_tags": [
+      "palpitations",
+      "racing heart",
+      "heart support",
+      "water retention",
+      "high blood pressure"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Hawthorn genuinely acts on the heart and blood vessels, which is exactly why it must be treated with care: it can add to or interfere with heart and blood-pressure medicines (such as digoxin, beta-blockers and others). Heart symptoms — chest pain, palpitations, breathlessness, swelling — need proper medical assessment, not self-treatment.",
+      "modern_evidence_status": "There is some modern evidence for standardised hawthorn extract as an add-on in heart failure, but only under medical supervision because of its drug interactions."
+    }
+  },
+  {
+    "id": "culpeper-lilyofthevalley",
+    "name": "Lily of the Valley",
+    "category": "circulatory & heart",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Lily of the Valley / May Lily",
+        "modern_equivalent": "Convallaria majalis (lily of the valley)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the flowers distilled into a water and used for the head and heart — a plant now known to powerfully affect the heart.",
+    "symptoms_addressed_as_written": "Culpeper presents lily of the valley water for the head, memory and the heart, and for the palsy.",
+    "symptom_tags": [
+      "palpitations",
+      "heart",
+      "racing heart",
+      "swelling",
+      "memory"
+    ],
+    "modern_caution": {
+      "flag_level": "critical",
+      "notes": "Every part of lily of the valley contains powerful heart-affecting compounds (cardiac glycosides) much like foxglove. Eating it can cause a dangerously irregular or slow heartbeat, vomiting and death, and children have been poisoned by the berries and even by water the flowers stood in. There is no safe home use.",
+      "modern_evidence_status": "Its glycosides have been used in tightly controlled pharmaceutical settings, but the plant is a documented cause of serious and fatal poisoning and has no safe home use."
+    }
+  },
+  {
+    "id": "culpeper-borage",
+    "name": "Borage",
+    "category": "circulatory & heart",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Borage",
+        "modern_equivalent": "Borago officinalis (borage)"
+      }
+    ],
+    "preparation_as_written": "The text describes the leaves and flowers put into wine and cordial drinks, and the flowers candied.",
+    "symptoms_addressed_as_written": "Culpeper writes that borage cheers the heart, drives away sadness and melancholy, and was used in fevers and cordials to comfort the spirits.",
+    "symptom_tags": [
+      "low spirits",
+      "melancholy",
+      "fever",
+      "heart",
+      "anxiety"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "The borage leaf (and to a lesser extent the flowers) contains pyrrolizidine alkaloids, which can damage the liver, particularly with repeated use. For that reason taking the leaf internally is now discouraged. (Borage seed oil, a separate refined product, is treated differently, but the historical leaf-in-wine use is the risky one.)",
+      "modern_evidence_status": "The traditional 'cheering' use is not supported by good evidence, and concern about liver-toxic pyrrolizidine alkaloids means internal use of the herb is not recommended."
+    }
+  },
+  {
+    "id": "culpeper-eyebright",
+    "name": "Eyebright",
+    "category": "eyes",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Eyebright",
+        "modern_equivalent": "Euphrasia officinalis (eyebright)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the herb made into a water or powder and used for the eyes, as well as taken inwardly.",
+    "symptoms_addressed_as_written": "Culpeper presents eyebright, as its name suggests, for the eyes — to help dim or watering eyes and to 'clear the sight'.",
+    "symptom_tags": [
+      "sore eyes",
+      "watery eyes",
+      "eye irritation",
+      "eyesight",
+      "red eyes"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "The main modern concern is the route: putting any home-made herbal preparation directly into the eye risks infection and injury, because it is not sterile or pH-balanced for the eye. Eye symptoms should be assessed by a pharmacist, optician or doctor rather than self-treated with herbal washes.",
+      "modern_evidence_status": "Little reliable modern evidence that eyebright helps eye conditions, and applying non-sterile preparations to the eye is specifically discouraged."
+    }
   }
 ]

@@ -85,8 +85,8 @@ repo root. Each entry:
 Where modern identification of an ingredient is ambiguous, the
 `modern_equivalent` field says so explicitly rather than guessing.
 
-Phase 1 corpus: **133 entries** (69 low / 35 medium / 20 high / 9 critical),
-29 of them suppressed from search. It began as a 22-entry Culpeper validation
+Phase 1 corpus: **178 entries** (102 low / 41 medium / 26 high / 9 critical),
+35 of them suppressed from search. It began as a 22-entry Culpeper validation
 set (build-order step 2), was scaled up (step 4), and then expanded in a larger
 transcription pass that broadened beyond digestive/skin/respiratory into
 `fever & infection`, `pain & sleep`, `women's health`, `urinary`,
@@ -119,7 +119,7 @@ repeatable and self-validating:
 
 ## Stack
 
-React + Vite. Remedy data as a static JSON file. At 133 entries this is still
+React + Vite. Remedy data as a static JSON file. At 178 entries this is still
 comfortable; the spec's suggested move to a database only applies once the
 corpus grows past a few hundred entries.
 
@@ -156,7 +156,7 @@ things, that:
 3. ✅ Build search/browse UI with the suppression behavior, and **verify** a
    symptom search does not surface a critical entry (unit tests + an automated
    browser pass).
-4. ✅ Scale up the corpus (now 133 entries) via a repeatable, self-validating
+4. ✅ Scale up the corpus (now 178 entries) via a repeatable, self-validating
    transcription pipeline, each entry held to the same flagging rigor and
    re-verified by the safety harness (unit invariants + an automated browser
    pass).

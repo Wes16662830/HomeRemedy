@@ -85,9 +85,11 @@ repo root. Each entry:
 Where modern identification of an ingredient is ambiguous, the
 `modern_equivalent` field says so explicitly rather than guessing.
 
-Phase 1 corpus: **22 entries** (10 low / 4 medium / 5 high / 3 critical) across
-digestive, skin, and respiratory categories — the validation set called for in
-the build order before scaling up the full corpus.
+Phase 1 corpus: **43 entries** (19 low / 10 medium / 9 high / 5 critical) across
+digestive, skin, and respiratory categories, drawn from both approved sources
+(36 Culpeper, 7 Lewer). This began as a 22-entry validation set (build-order
+step 2) and was scaled up (step 4) once the suppression/flagging UI was verified
+working — every added entry passes the same safety-harness checks.
 
 ## Stack
 
@@ -126,4 +128,5 @@ things, that:
 3. ✅ Build search/browse UI with the suppression behavior, and **verify** a
    symptom search does not surface a critical entry (unit tests + an automated
    browser pass).
-4. ⏭️ Scale up the corpus from both sources (next phase).
+4. ✅ Scale up the corpus from both sources (now 43 entries), each held to the
+   same flagging rigor and re-verified by the safety harness.

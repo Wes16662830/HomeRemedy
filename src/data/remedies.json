@@ -11,11 +11,23 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Fennel seed", "modern_equivalent": "Foeniculum vulgare (fennel) seed" }
+      {
+        "historical_name": "Fennel seed",
+        "modern_equivalent": "Foeniculum vulgare (fennel) seed"
+      }
     ],
     "preparation_as_written": "The text describes boiling the seed in water or wine and taking the resulting liquor; the seeds were also chewed after meals.",
     "symptoms_addressed_as_written": "Culpeper writes that fennel eases wind and gripings of the belly, helps a queasy stomach, and provokes the appetite.",
-    "symptom_tags": ["wind", "bloating", "gas", "indigestion", "upset stomach", "poor appetite", "colic", "flatulence"],
+    "symptom_tags": [
+      "wind",
+      "bloating",
+      "gas",
+      "indigestion",
+      "upset stomach",
+      "poor appetite",
+      "colic",
+      "flatulence"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "A common culinary herb. Eating or drinking fennel at food-strength amounts is not associated with significant risk for most people.",
@@ -34,11 +46,22 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Garden mint", "modern_equivalent": "Mentha species; Culpeper's 'mint' covers several, closest to modern spearmint (Mentha spicata) and peppermint (Mentha x piperita)" }
+      {
+        "historical_name": "Garden mint",
+        "modern_equivalent": "Mentha species; Culpeper's 'mint' covers several, closest to modern spearmint (Mentha spicata) and peppermint (Mentha x piperita)"
+      }
     ],
     "preparation_as_written": "The text describes mint taken as a hot infusion in water, or the juice taken, to settle the stomach.",
     "symptoms_addressed_as_written": "Culpeper writes that mint stays the stomach, stops vomiting, and is good against wind and the gripings of the belly.",
-    "symptom_tags": ["nausea", "vomiting", "upset stomach", "wind", "indigestion", "colic", "gas"],
+    "symptom_tags": [
+      "nausea",
+      "vomiting",
+      "upset stomach",
+      "wind",
+      "indigestion",
+      "colic",
+      "gas"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "A common culinary and tea herb. Food- and tea-strength use is well tolerated by most people; concentrated peppermint oil is a different, stronger preparation and can worsen reflux in some people.",
@@ -57,11 +80,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Camomile flowers", "modern_equivalent": "Chamaemelum nobile (Roman chamomile); modern teas often use Matricaria chamomilla (German chamomile)" }
+      {
+        "historical_name": "Camomile flowers",
+        "modern_equivalent": "Chamaemelum nobile (Roman chamomile); modern teas often use Matricaria chamomilla (German chamomile)"
+      }
     ],
     "preparation_as_written": "The text describes the flowers infused in water as a warm drink, and also boiled to make a bath or fomentation applied to the body.",
     "symptoms_addressed_as_written": "Culpeper writes that chamomile eases pains of the belly and colic, comforts the stomach, and that a bath of it eases weariness and pains.",
-    "symptom_tags": ["colic", "belly pain", "indigestion", "cramps", "restlessness", "aches"],
+    "symptom_tags": [
+      "colic",
+      "belly pain",
+      "indigestion",
+      "cramps",
+      "restlessness",
+      "aches"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "Widely used as a mild tea. Generally well tolerated; people with severe allergy to plants in the daisy/ragweed family may react.",
@@ -80,11 +113,19 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Centaury (the lesser)", "modern_equivalent": "Centaurium erythraea (common centaury); not to be confused with the unrelated garden plant Centaurea" }
+      {
+        "historical_name": "Centaury (the lesser)",
+        "modern_equivalent": "Centaurium erythraea (common centaury); not to be confused with the unrelated garden plant Centaurea"
+      }
     ],
     "preparation_as_written": "The text describes the herb boiled and the bitter decoction drunk.",
     "symptoms_addressed_as_written": "Culpeper writes that this bitter herb helps a weak stomach, opens obstructions of the liver, and provokes appetite.",
-    "symptom_tags": ["poor appetite", "weak stomach", "indigestion", "sluggish digestion"],
+    "symptom_tags": [
+      "poor appetite",
+      "weak stomach",
+      "indigestion",
+      "sluggish digestion"
+    ],
     "modern_caution": {
       "flag_level": "medium",
       "notes": "A bitter tonic herb. Generally low-risk at traditional amounts, but bitters can aggravate stomach ulcers or excess acid, and concentrated use is not well studied. Caution in pregnancy due to lack of safety data.",
@@ -103,11 +144,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Wormwood", "modern_equivalent": "Artemisia absinthium (wormwood)" }
+      {
+        "historical_name": "Wormwood",
+        "modern_equivalent": "Artemisia absinthium (wormwood)"
+      }
     ],
     "preparation_as_written": "The text describes the herb steeped in wine or ale, or boiled in water, and the bitter liquor taken.",
     "symptoms_addressed_as_written": "Culpeper writes that wormwood strengthens a weak stomach, helps digestion, kills worms in the belly, and opens obstructions of the liver.",
-    "symptom_tags": ["worms", "intestinal worms", "weak stomach", "indigestion", "poor appetite", "liver"],
+    "symptom_tags": [
+      "worms",
+      "intestinal worms",
+      "weak stomach",
+      "indigestion",
+      "poor appetite",
+      "liver"
+    ],
     "modern_caution": {
       "flag_level": "high",
       "notes": "Wormwood contains thujone, a compound that is toxic to the nervous system and can cause seizures and kidney damage at higher or prolonged doses. It should not be used in pregnancy and is not safe for self-directed internal use.",
@@ -126,11 +177,19 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Aloes", "modern_equivalent": "Dried latex of Aloe species (bitter aloes / aloe resin) — distinct from the clear aloe vera gel sold today" }
+      {
+        "historical_name": "Aloes",
+        "modern_equivalent": "Dried latex of Aloe species (bitter aloes / aloe resin) — distinct from the clear aloe vera gel sold today"
+      }
     ],
     "preparation_as_written": "The text describes the bitter dried resin taken in small quantity to purge the belly.",
     "symptoms_addressed_as_written": "Culpeper writes that aloes purge the belly of choler and phlegm and open the body when it is bound (constipated).",
-    "symptom_tags": ["constipation", "bound belly", "purge", "costiveness"],
+    "symptom_tags": [
+      "constipation",
+      "bound belly",
+      "purge",
+      "costiveness"
+    ],
     "modern_caution": {
       "flag_level": "high",
       "notes": "Bitter aloes is a powerful stimulant purgative. It can cause severe cramping, fluid and electrolyte loss, and is unsafe in pregnancy (risk of uterine stimulation) and for children. Repeated use can damage bowel function. The historical 'aloes' here is not the same as the clear aloe vera gel sold for skin.",
@@ -149,11 +208,20 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Senna leaves / 'sene'", "modern_equivalent": "Senna alexandrina (senna) leaf and pod" }
+      {
+        "historical_name": "Senna leaves / 'sene'",
+        "modern_equivalent": "Senna alexandrina (senna) leaf and pod"
+      }
     ],
     "preparation_as_written": "The manuscript describes the leaves infused in water, sometimes with ginger or aniseed added to lessen griping, and the liquor taken to loosen the body.",
     "symptoms_addressed_as_written": "The text presents senna as a purge to loosen the belly and carry off 'gross humours'.",
-    "symptom_tags": ["constipation", "bound belly", "purge", "costiveness", "loosen the body"],
+    "symptom_tags": [
+      "constipation",
+      "bound belly",
+      "purge",
+      "costiveness",
+      "loosen the body"
+    ],
     "modern_caution": {
       "flag_level": "medium",
       "notes": "Senna is still used today as a stimulant laxative, but it is not for routine or long-term use, can cause cramping and fluid loss, and is generally avoided in pregnancy and in young children except under professional guidance.",
@@ -172,11 +240,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Marigold flowers", "modern_equivalent": "Calendula officinalis (pot marigold) — not the unrelated ornamental Tagetes 'marigold'" }
+      {
+        "historical_name": "Marigold flowers",
+        "modern_equivalent": "Calendula officinalis (pot marigold) — not the unrelated ornamental Tagetes 'marigold'"
+      }
     ],
     "preparation_as_written": "The text describes the flowers made into an ointment or the juice applied, and also the flowers used in broths.",
     "symptoms_addressed_as_written": "Culpeper writes that marigold strengthens the heart, and that an ointment of the flowers is used for inflammations of the skin and to help heal wounds.",
-    "symptom_tags": ["wounds", "skin inflammation", "rash", "sore skin", "minor cuts", "chapped skin"],
+    "symptom_tags": [
+      "wounds",
+      "skin inflammation",
+      "rash",
+      "sore skin",
+      "minor cuts",
+      "chapped skin"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "Calendula is commonly used in modern skin balms and is generally well tolerated on intact skin; people allergic to the daisy family may react. Topical use only is implied here.",
@@ -195,11 +273,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Plantain", "modern_equivalent": "Plantago major or Plantago lanceolata (broadleaf / ribwort plantain) — not the banana-like 'plantain' food" }
+      {
+        "historical_name": "Plantain",
+        "modern_equivalent": "Plantago major or Plantago lanceolata (broadleaf / ribwort plantain) — not the banana-like 'plantain' food"
+      }
     ],
     "preparation_as_written": "The text describes the bruised leaves laid on the skin, and the juice applied to sores.",
     "symptoms_addressed_as_written": "Culpeper writes that plantain cools and heals, is good for sores and wounds, and for the bites and stings of creatures.",
-    "symptom_tags": ["wounds", "sores", "insect bites", "stings", "skin inflammation", "minor cuts"],
+    "symptom_tags": [
+      "wounds",
+      "sores",
+      "insect bites",
+      "stings",
+      "skin inflammation",
+      "minor cuts"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "Plantain leaf applied to skin is a mild traditional remedy with no known significant risk for most people on minor, clean skin irritation.",
@@ -218,11 +306,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Houseleek / Sengreen", "modern_equivalent": "Sempervivum tectorum (common houseleek)" }
+      {
+        "historical_name": "Houseleek / Sengreen",
+        "modern_equivalent": "Sempervivum tectorum (common houseleek)"
+      }
     ],
     "preparation_as_written": "The text describes the cool, juicy leaves bruised and laid on the skin, or the juice applied.",
     "symptoms_addressed_as_written": "Culpeper writes that houseleek cools hot inflammations, eases the heat of burns and St. Anthony's fire, and is laid on hot swellings.",
-    "symptom_tags": ["burns", "skin inflammation", "hot swelling", "rash", "sunburn", "stings"],
+    "symptom_tags": [
+      "burns",
+      "skin inflammation",
+      "hot swelling",
+      "rash",
+      "sunburn",
+      "stings"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "Used much like aloe vera gel — the cool leaf juice applied to intact skin. Low risk for most people; not a substitute for proper burn care on anything beyond very minor burns.",
@@ -241,11 +339,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Comfrey root and leaf", "modern_equivalent": "Symphytum officinale (comfrey)" }
+      {
+        "historical_name": "Comfrey root and leaf",
+        "modern_equivalent": "Symphytum officinale (comfrey)"
+      }
     ],
     "preparation_as_written": "The text describes the slimy root boiled and made into a poultice or drink, and used both on the skin and taken inwardly for inward hurts.",
     "symptoms_addressed_as_written": "Culpeper writes that comfrey heals wounds and broken bones, knits together what is broken, and is taken inwardly for inward wounds and bruises.",
-    "symptom_tags": ["wounds", "bruises", "sprains", "broken bones", "inward injury", "sore skin"],
+    "symptom_tags": [
+      "wounds",
+      "bruises",
+      "sprains",
+      "broken bones",
+      "inward injury",
+      "sore skin"
+    ],
     "modern_caution": {
       "flag_level": "high",
       "notes": "Comfrey contains pyrrolizidine alkaloids, which can cause serious liver damage. Taking it internally (as the historical text also describes) is now considered unsafe. Even on the skin, modern guidance restricts it to short-term use on intact (unbroken) skin only, and it should not be used in pregnancy or on children.",
@@ -264,11 +372,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Celandine (the greater)", "modern_equivalent": "Chelidonium majus (greater celandine) — unrelated to lesser celandine, Ficaria verna" }
+      {
+        "historical_name": "Celandine (the greater)",
+        "modern_equivalent": "Chelidonium majus (greater celandine) — unrelated to lesser celandine, Ficaria verna"
+      }
     ],
     "preparation_as_written": "The text describes the bright yellow-orange juice of the broken stem dabbed onto the skin, and the herb also taken inwardly in decoctions.",
     "symptoms_addressed_as_written": "Culpeper writes that the juice cleanses the skin, takes away warts, tetters and spots, and is used for sore eyes and for the yellow jaundice.",
-    "symptom_tags": ["warts", "skin spots", "tetters", "ringworm", "jaundice", "blemishes"],
+    "symptom_tags": [
+      "warts",
+      "skin spots",
+      "tetters",
+      "ringworm",
+      "jaundice",
+      "blemishes"
+    ],
     "modern_caution": {
       "flag_level": "high",
       "notes": "Greater celandine taken internally has been linked to serious, sometimes severe liver injury (hepatotoxicity), and the fresh juice is irritating to skin and eyes. The historical eye and internal uses are unsafe; it should not be used in pregnancy or by children.",
@@ -287,11 +405,20 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Elder (flowers, berries, and bark)", "modern_equivalent": "Sambucus nigra (European elder / elderflower / elderberry)" }
+      {
+        "historical_name": "Elder (flowers, berries, and bark)",
+        "modern_equivalent": "Sambucus nigra (European elder / elderflower / elderberry)"
+      }
     ],
     "preparation_as_written": "The manuscript describes elder flowers made into a water or ointment for the skin, and the berries and inner bark prepared into purging and 'cleansing' preparations.",
     "symptoms_addressed_as_written": "The text presents elder flower preparations for the complexion and skin, and stronger bark and berry preparations to purge and cleanse the body.",
-    "symptom_tags": ["skin", "complexion", "chapped skin", "purge", "swelling"],
+    "symptom_tags": [
+      "skin",
+      "complexion",
+      "chapped skin",
+      "purge",
+      "swelling"
+    ],
     "modern_caution": {
       "flag_level": "medium",
       "notes": "Elderflower and properly cooked elderberry are widely used and generally low-risk. However, the raw berries, leaves, bark and unripe fruit contain cyanide-producing compounds and can cause nausea and vomiting; the purging bark preparations described historically are the risky ones. Identify the part used carefully.",
@@ -310,11 +437,20 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Horehound", "modern_equivalent": "Marrubium vulgare (white horehound)" }
+      {
+        "historical_name": "Horehound",
+        "modern_equivalent": "Marrubium vulgare (white horehound)"
+      }
     ],
     "preparation_as_written": "The text describes the herb boiled in water with honey and the syrup taken for the chest.",
     "symptoms_addressed_as_written": "Culpeper writes that horehound helps to expel tough phlegm from the chest, eases an old cough, and helps those who are short of breath.",
-    "symptom_tags": ["cough", "phlegm", "chest congestion", "shortness of breath", "sore throat"],
+    "symptom_tags": [
+      "cough",
+      "phlegm",
+      "chest congestion",
+      "shortness of breath",
+      "sore throat"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "A traditional cough herb, still found in horehound cough sweets. Food- and sweet-strength use is low-risk for most people; very large amounts can upset the stomach. Best avoided in pregnancy due to limited data.",
@@ -333,11 +469,20 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Hyssop", "modern_equivalent": "Hyssopus officinalis (hyssop)" }
+      {
+        "historical_name": "Hyssop",
+        "modern_equivalent": "Hyssopus officinalis (hyssop)"
+      }
     ],
     "preparation_as_written": "The text describes the herb boiled with honey or figs and the liquor or syrup taken for the chest.",
     "symptoms_addressed_as_written": "Culpeper writes that hyssop helps coughs, shortness of breath, and brings up tough phlegm from the lungs.",
-    "symptom_tags": ["cough", "phlegm", "chest congestion", "shortness of breath", "cold"],
+    "symptom_tags": [
+      "cough",
+      "phlegm",
+      "chest congestion",
+      "shortness of breath",
+      "cold"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "Culinary-strength hyssop herb and tea are low-risk for most people. Note that concentrated hyssop essential oil is a separate, much stronger product that can cause seizures and should not be used internally — the herb described here is not that oil.",
@@ -356,11 +501,20 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Elecampane root", "modern_equivalent": "Inula helenium (elecampane)" }
+      {
+        "historical_name": "Elecampane root",
+        "modern_equivalent": "Inula helenium (elecampane)"
+      }
     ],
     "preparation_as_written": "The text describes the root boiled or candied (preserved in sugar) and taken for the chest.",
     "symptoms_addressed_as_written": "Culpeper writes that elecampane root helps the cough, shortness of breath and wheezing of the lungs, and helps to bring up phlegm.",
-    "symptom_tags": ["cough", "wheezing", "phlegm", "chest congestion", "shortness of breath"],
+    "symptom_tags": [
+      "cough",
+      "wheezing",
+      "phlegm",
+      "chest congestion",
+      "shortness of breath"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "A traditional cough root. Generally low-risk at traditional amounts, though it can occasionally cause skin allergy on contact, and large amounts may upset the stomach. Limited data in pregnancy.",
@@ -379,11 +533,20 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Mullein", "modern_equivalent": "Verbascum thapsus (great mullein)" }
+      {
+        "historical_name": "Mullein",
+        "modern_equivalent": "Verbascum thapsus (great mullein)"
+      }
     ],
     "preparation_as_written": "The text describes the leaves and flowers boiled in water and the liquor taken for the chest.",
     "symptoms_addressed_as_written": "Culpeper writes that mullein is good for coughs and to ease the chest, and that a decoction is used for hoarseness.",
-    "symptom_tags": ["cough", "hoarseness", "chest congestion", "sore throat", "phlegm"],
+    "symptom_tags": [
+      "cough",
+      "hoarseness",
+      "chest congestion",
+      "sore throat",
+      "phlegm"
+    ],
     "modern_caution": {
       "flag_level": "low",
       "notes": "A traditional cough herb, generally low-risk as a tea for most people. The fine hairs on the leaf can irritate the throat, so traditional preparations are strained well.",
@@ -402,11 +565,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Coltsfoot", "modern_equivalent": "Tussilago farfara (coltsfoot)" }
+      {
+        "historical_name": "Coltsfoot",
+        "modern_equivalent": "Tussilago farfara (coltsfoot)"
+      }
     ],
     "preparation_as_written": "The text describes the leaves boiled in water and the liquor taken, and the dried leaves sometimes smoked, for the chest.",
     "symptoms_addressed_as_written": "Culpeper writes that coltsfoot is good for the cough and for shortness of breath, and helps the 'rheum' that falls upon the lungs.",
-    "symptom_tags": ["cough", "shortness of breath", "phlegm", "chest congestion", "asthma", "wheezing"],
+    "symptom_tags": [
+      "cough",
+      "shortness of breath",
+      "phlegm",
+      "chest congestion",
+      "asthma",
+      "wheezing"
+    ],
     "modern_caution": {
       "flag_level": "high",
       "notes": "Coltsfoot contains pyrrolizidine alkaloids, which can cause serious liver damage, especially with repeated use. Internal use is now considered unsafe; it should not be used in pregnancy, while breastfeeding, or by children. Some countries restrict its sale.",
@@ -425,11 +598,20 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Liquorice / 'licoras'", "modern_equivalent": "Glycyrrhiza glabra (liquorice) root" }
+      {
+        "historical_name": "Liquorice / 'licoras'",
+        "modern_equivalent": "Glycyrrhiza glabra (liquorice) root"
+      }
     ],
     "preparation_as_written": "The manuscript describes the root boiled in water, often with other chest herbs, and the sweet liquor taken for coughs and a sore chest.",
     "symptoms_addressed_as_written": "The text presents liquorice for coughs, hoarseness, and to soothe a raw or sore chest and throat.",
-    "symptom_tags": ["cough", "sore throat", "hoarseness", "chest congestion", "phlegm"],
+    "symptom_tags": [
+      "cough",
+      "sore throat",
+      "hoarseness",
+      "chest congestion",
+      "phlegm"
+    ],
     "modern_caution": {
       "flag_level": "medium",
       "notes": "Liquorice root soothes the throat but, taken in quantity or over time, can raise blood pressure, lower potassium, and cause fluid retention. It is contraindicated for people with high blood pressure, heart or kidney problems, in pregnancy, and can interact with several medicines including some blood-pressure and heart drugs.",
@@ -448,11 +630,23 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Pennyroyal / Pulioll-royal", "modern_equivalent": "Mentha pulegium (European pennyroyal)" }
+      {
+        "historical_name": "Pennyroyal / Pulioll-royal",
+        "modern_equivalent": "Mentha pulegium (European pennyroyal)"
+      }
     ],
     "preparation_as_written": "The historical text describes the herb boiled in water or wine and the liquor taken, and notes its use to 'provoke the courses' (bring on menstruation).",
     "symptoms_addressed_as_written": "Culpeper writes that pennyroyal provokes women's courses, expels the dead child and afterbirth, helps wind and gripings of the belly, and is used for coughs.",
-    "symptom_tags": ["bring on menstruation", "provoke courses", "induce miscarriage", "abortion", "expel afterbirth", "missed period", "wind", "colic"],
+    "symptom_tags": [
+      "bring on menstruation",
+      "provoke courses",
+      "induce miscarriage",
+      "abortion",
+      "expel afterbirth",
+      "missed period",
+      "wind",
+      "colic"
+    ],
     "modern_caution": {
       "flag_level": "critical",
       "notes": "Pennyroyal — and especially its concentrated oil — is acutely poisonous. It has caused fatal liver and kidney failure, and its historical use to bring on menstruation or end pregnancy has killed people attempting it. There is no safe self-directed dose for these purposes. If you are pregnant, think you may be, or have a missed or worrying period, this is a situation for a healthcare professional, not a historical remedy.",
@@ -471,11 +665,21 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Henbane", "modern_equivalent": "Hyoscyamus niger (black henbane)" }
+      {
+        "historical_name": "Henbane",
+        "modern_equivalent": "Hyoscyamus niger (black henbane)"
+      }
     ],
     "preparation_as_written": "The historical text describes the herb and its juice or seeds applied outwardly, and warns even within the period that it is dangerous taken inwardly.",
     "symptoms_addressed_as_written": "Culpeper writes that henbane is used to cool hot inflammations and swellings, to ease pain, and to bring sleep — while cautioning against its inward use.",
-    "symptom_tags": ["pain", "toothache", "swelling", "inflammation", "sleeplessness", "insomnia"],
+    "symptom_tags": [
+      "pain",
+      "toothache",
+      "swelling",
+      "inflammation",
+      "sleeplessness",
+      "insomnia"
+    ],
     "modern_caution": {
       "flag_level": "critical",
       "notes": "Henbane is a deadly poisonous plant. It contains tropane alkaloids (the same family as deadly nightshade) that can cause delirium, rapid heartbeat, seizures, coma and death, and poisoning has occurred even from skin and mucous-membrane contact. There is no safe home use of this plant.",
@@ -494,15 +698,709 @@
       "license": "Public domain"
     },
     "ingredients": [
-      { "historical_name": "Deadly nightshade / Dwale", "modern_equivalent": "Atropa belladonna (deadly nightshade)" }
+      {
+        "historical_name": "Deadly nightshade / Dwale",
+        "modern_equivalent": "Atropa belladonna (deadly nightshade)"
+      }
     ],
     "preparation_as_written": "The historical text describes outward application of the cooling juice or distilled water to inflamed skin, alongside explicit warnings about the plant's deadly nature.",
     "symptoms_addressed_as_written": "Culpeper presents it for cooling hot inflammations and swellings of the skin, while stressing that it is poisonous and not to be taken inwardly.",
-    "symptom_tags": ["inflammation", "hot swelling", "skin", "pain"],
+    "symptom_tags": [
+      "inflammation",
+      "hot swelling",
+      "skin",
+      "pain"
+    ],
     "modern_caution": {
       "flag_level": "critical",
       "notes": "Deadly nightshade is one of the most poisonous plants in Europe. Eating even a few berries can kill a child, and its tropane alkaloids are absorbed through skin and eyes. There is no safe home use. It is listed here only because it appears in the historical source, not as anything to try.",
       "modern_evidence_status": "Purified belladonna alkaloids (such as atropine) are important prescription medicines under strict medical control, but the raw plant is a documented cause of serious and fatal poisoning and has no safe home use."
+    }
+  },
+  {
+    "id": "culpeper-aniseed",
+    "name": "Aniseed",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Anise / Aniseed",
+        "modern_equivalent": "Pimpinella anisum (anise) seed"
+      }
+    ],
+    "preparation_as_written": "The text describes the seeds chewed, or boiled in water and the liquor taken, after meals.",
+    "symptoms_addressed_as_written": "Culpeper writes that aniseed helps wind and the gripings of the belly, eases the stomach, and helps a stinking breath.",
+    "symptom_tags": [
+      "wind",
+      "bloating",
+      "gas",
+      "indigestion",
+      "colic",
+      "flatulence",
+      "bad breath"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A common culinary spice. Seed- and tea-strength use is low-risk for most people; concentrated anise oil is a separate, stronger product.",
+      "modern_evidence_status": "Traditional carminative use with some small-study support for mild bloating; concentrated extracts are less well studied for safety."
+    }
+  },
+  {
+    "id": "lewer-caraway",
+    "name": "Caraway",
+    "category": "digestive",
+    "source": {
+      "title": "A Book of Simples",
+      "author": "transcribed by Henry William Lewer (manuscript c.1600s, published 1908)",
+      "year": "1908",
+      "url": "https://www.gutenberg.org/files/53951/53951-h/53951-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Caraway / 'carui' seed",
+        "modern_equivalent": "Carum carvi (caraway) seed"
+      }
+    ],
+    "preparation_as_written": "The manuscript describes the seeds taken after meals or baked into bread and cakes to settle the stomach.",
+    "symptoms_addressed_as_written": "The text presents caraway to comfort the stomach, help digestion and break wind.",
+    "symptom_tags": [
+      "wind",
+      "bloating",
+      "gas",
+      "indigestion",
+      "colic",
+      "flatulence"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A common culinary spice, low-risk at food strength for most people.",
+      "modern_evidence_status": "Caraway oil (often combined with peppermint) has some modern evidence for indigestion; the whole seed has weaker but supportive traditional use."
+    }
+  },
+  {
+    "id": "culpeper-angelica",
+    "name": "Angelica",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Angelica (garden angelica)",
+        "modern_equivalent": "Angelica archangelica (garden angelica); note wild relatives can be confused with poison hemlock"
+      }
+    ],
+    "preparation_as_written": "The text describes the root and seeds boiled in wine or water, and the candied stalks eaten, as a warming stomach remedy.",
+    "symptoms_addressed_as_written": "Culpeper writes that angelica warms and comforts a cold stomach, helps digestion, eases wind, and was used against infection in plague time.",
+    "symptom_tags": [
+      "wind",
+      "weak stomach",
+      "indigestion",
+      "cold stomach",
+      "poor appetite",
+      "colic"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Angelica contains furocoumarins that can make skin more sensitive to sunlight, and it has a traditional reputation for stimulating menstruation, so it is generally avoided in pregnancy. Foragers must not confuse it with deadly poison hemlock, which it superficially resembles.",
+      "modern_evidence_status": "Largely traditional digestive use; limited modern clinical evidence, with the photosensitivity and pregnancy cautions noted above."
+    }
+  },
+  {
+    "id": "culpeper-gentian",
+    "name": "Gentian (Felwort)",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Gentian / Felwort",
+        "modern_equivalent": "Gentiana lutea (yellow gentian) and related Gentiana species"
+      }
+    ],
+    "preparation_as_written": "The text describes the bitter root boiled or steeped and the liquor taken to strengthen the stomach.",
+    "symptoms_addressed_as_written": "Culpeper writes that gentian, being very bitter, comforts a weak stomach, helps digestion, opens obstructions of the liver, and kills worms.",
+    "symptom_tags": [
+      "poor appetite",
+      "weak stomach",
+      "indigestion",
+      "sluggish digestion",
+      "worms",
+      "liver"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "A strong bitter tonic. Generally low-risk at traditional amounts, but bitters can aggravate stomach ulcers, heartburn or excess acid, and it is usually avoided in pregnancy and with active gastric ulcers.",
+      "modern_evidence_status": "Used in modern bitter tonics and aperitifs; some evidence for stimulating appetite and digestion, but rigorous clinical data is limited."
+    }
+  },
+  {
+    "id": "culpeper-rhubarb",
+    "name": "Rhubarb (Medicinal Rhubarb Root)",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Rhubarb (the root, 'Rhabarbarum')",
+        "modern_equivalent": "Rheum officinale / Rheum palmatum root — the medicinal rhubarbs, not the garden rhubarb grown for its stalks"
+      }
+    ],
+    "preparation_as_written": "The text describes the dried root powdered or infused and taken in small quantity to purge the belly gently.",
+    "symptoms_addressed_as_written": "Culpeper writes that rhubarb root purges choler and phlegm gently, opens the body when it is bound, and afterwards binds and strengthens the stomach.",
+    "symptom_tags": [
+      "constipation",
+      "bound belly",
+      "purge",
+      "costiveness",
+      "sluggish digestion"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Medicinal rhubarb root is a stimulant laxative and is not for routine or long-term use; it can cause cramping and fluid loss, is generally avoided in pregnancy and young children, and should be avoided by people with bowel obstruction or kidney stones (it is high in oxalate). The leaves of any rhubarb are toxic and must never be used.",
+      "modern_evidence_status": "Recognised laxative action with the same cautions as other stimulant laxatives; used in some traditional medicine systems, but safer options are generally preferred."
+    }
+  },
+  {
+    "id": "culpeper-rue",
+    "name": "Rue (Herb of Grace)",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Rue",
+        "modern_equivalent": "Ruta graveolens (common rue)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled and the liquor taken, and notes its use to 'bring down the courses' (provoke menstruation).",
+    "symptoms_addressed_as_written": "Culpeper writes that rue helps wind and gripings, provokes women's courses, and was used against poisons and the bites of venomous creatures.",
+    "symptom_tags": [
+      "wind",
+      "colic",
+      "provoke courses",
+      "bring on menstruation",
+      "induce miscarriage",
+      "missed period",
+      "cramps"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "Rue is a uterine stimulant historically used to bring on menstruation or end pregnancy; in the amounts needed for that it is toxic and has caused serious poisoning, liver and kidney damage, and deaths in attempted self-abortion. The fresh plant also causes severe sun-triggered skin burns on contact. It must not be used in pregnancy or for self-directed internal use.",
+      "modern_evidence_status": "No safe modern internal use is recommended; the medical and poison-control literature documents toxicity and harm, including from attempted self-induced abortion."
+    }
+  },
+  {
+    "id": "culpeper-saffron",
+    "name": "Saffron",
+    "category": "digestive",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Saffron",
+        "modern_equivalent": "Crocus sativus (saffron) stigmas"
+      }
+    ],
+    "preparation_as_written": "The text describes a few threads steeped in liquid and taken, or added to cordials, in very small quantity.",
+    "symptoms_addressed_as_written": "Culpeper writes that saffron strengthens the heart and stomach, helps digestion, and that it cheers the spirits — while cautioning that too much is harmful.",
+    "symptom_tags": [
+      "weak stomach",
+      "indigestion",
+      "low spirits",
+      "melancholy",
+      "poor appetite"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Culinary pinches of saffron are low-risk, but larger medicinal doses are toxic — historically large amounts were used to attempt abortion and have caused poisoning. It is avoided in pregnancy at more than food amounts. Even Culpeper warned against excess.",
+      "modern_evidence_status": "Some modern trials explore saffron for low mood at controlled doses, but higher amounts are toxic and the pregnancy caution is well established."
+    }
+  },
+  {
+    "id": "culpeper-burdock",
+    "name": "Burdock",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Burdock / Clot-bur",
+        "modern_equivalent": "Arctium lappa (greater burdock)"
+      }
+    ],
+    "preparation_as_written": "The text describes the leaves applied to the skin, and the root and seed boiled and the decoction taken or applied.",
+    "symptoms_addressed_as_written": "Culpeper writes that burdock leaves are laid on sores and inflammations, and that the root and seed were used to cleanse the blood and for skin eruptions.",
+    "symptom_tags": [
+      "sores",
+      "skin eruptions",
+      "boils",
+      "skin inflammation",
+      "eczema",
+      "rash"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional skin and 'blood-cleansing' herb, low-risk for most people on minor skin complaints. People allergic to the daisy family may react. Note that wild-collected root has occasionally been contaminated with toxic belladonna root, so source matters.",
+      "modern_evidence_status": "Mostly traditional use; limited laboratory and small-study evidence for skin and anti-inflammatory effects."
+    }
+  },
+  {
+    "id": "culpeper-selfheal",
+    "name": "Self-Heal",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Self-heal / Prunell / Carpenter's herb",
+        "modern_equivalent": "Prunella vulgaris (self-heal)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb bruised and applied, and boiled to make a wash or drink for wounds.",
+    "symptoms_addressed_as_written": "Culpeper writes that self-heal is good for wounds inward and outward, for sores in the mouth and throat, and to stay bleeding.",
+    "symptom_tags": [
+      "wounds",
+      "sores",
+      "mouth sores",
+      "sore throat",
+      "minor cuts",
+      "bleeding"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A gentle traditional wound and mouth-rinse herb, low-risk for most people on minor complaints.",
+      "modern_evidence_status": "Largely traditional; some laboratory evidence for antimicrobial and anti-inflammatory activity, little modern clinical trial data."
+    }
+  },
+  {
+    "id": "culpeper-yarrow",
+    "name": "Yarrow",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Yarrow / Nosebleed / Millfoil",
+        "modern_equivalent": "Achillea millefolium (yarrow)"
+      }
+    ],
+    "preparation_as_written": "The text describes the bruised herb applied to wounds to stop bleeding, and an infusion taken.",
+    "symptoms_addressed_as_written": "Culpeper writes that yarrow stanches bleeding, closes and heals wounds, and that a decoction is good for inflammations.",
+    "symptom_tags": [
+      "wounds",
+      "bleeding",
+      "nosebleed",
+      "minor cuts",
+      "skin inflammation",
+      "sores"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional wound herb, low-risk for most people applied to minor, clean wounds. People allergic to the daisy family may react, and it is generally avoided in pregnancy at medicinal (tea) strength.",
+      "modern_evidence_status": "Mostly traditional use; some laboratory support for wound and anti-inflammatory effects, limited clinical evidence."
+    }
+  },
+  {
+    "id": "culpeper-stjohnswort",
+    "name": "St John's Wort",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "St John's Wort",
+        "modern_equivalent": "Hypericum perforatum (St John's wort)"
+      }
+    ],
+    "preparation_as_written": "The text describes the flowers steeped in oil to make a red oil for the skin, and the herb boiled and taken inwardly.",
+    "symptoms_addressed_as_written": "Culpeper writes that the oil of St John's wort heals wounds, burns and bruises, and that the herb was taken for hurts and melancholy.",
+    "symptom_tags": [
+      "wounds",
+      "burns",
+      "bruises",
+      "nerve pain",
+      "low spirits",
+      "melancholy"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "Taken internally, St John's wort has serious, well-documented interactions with many medicines — it can make the contraceptive pill, blood thinners, some heart and HIV drugs, transplant medicines and antidepressants stop working properly, sometimes dangerously. It can also increase sensitivity to sunlight. The skin oil is lower-risk, but internal self-use is hazardous if you take any other medication.",
+      "modern_evidence_status": "There is reasonable modern evidence for standardised oral extracts in mild-to-moderate low mood, but the drug-interaction risk is significant enough that it should only be used with professional advice."
+    }
+  },
+  {
+    "id": "culpeper-hemlock",
+    "name": "Hemlock",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Hemlock",
+        "modern_equivalent": "Conium maculatum (poison hemlock)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes only outward application of the cooling herb to inflamed swellings, alongside explicit warnings that it is deadly poison and not to be taken inwardly.",
+    "symptoms_addressed_as_written": "Culpeper presents hemlock applied outwardly to cool hot, painful swellings and inflammations, while stressing its deadly nature.",
+    "symptom_tags": [
+      "hot swelling",
+      "inflammation",
+      "painful swelling",
+      "skin"
+    ],
+    "modern_caution": {
+      "flag_level": "critical",
+      "notes": "Hemlock is one of the deadliest plants there is — the poison that killed Socrates. Its alkaloids cause progressive paralysis and death by suffocation, and it is dangerous even handled or absorbed through the skin. It is also lethally easy to mistake for edible plants like wild carrot or parsley. There is no safe home use whatsoever.",
+      "modern_evidence_status": "No legitimate modern home use exists; the plant is a documented cause of fatal poisoning in humans and livestock."
+    }
+  },
+  {
+    "id": "culpeper-foxglove",
+    "name": "Foxglove",
+    "category": "skin",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Foxglove / Fox-glove",
+        "modern_equivalent": "Digitalis purpurea (common foxglove)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes an ointment of the bruised herb used outwardly for scabby, scrofulous skin; the powerful effect of the plant on the heart was not understood in Culpeper's time.",
+    "symptoms_addressed_as_written": "Culpeper presents foxglove mainly as an outward ointment for the 'King's evil' (scrofula) and scabby skin conditions.",
+    "symptom_tags": [
+      "scrofula",
+      "king's evil",
+      "scabby skin",
+      "skin sores",
+      "swelling"
+    ],
+    "modern_caution": {
+      "flag_level": "critical",
+      "notes": "Foxglove contains powerful heart-affecting compounds (cardiac glycosides). Eating any part can cause a dangerously irregular heartbeat, vomiting and death, and the gap between a 'dose' and a lethal amount is very small. Poisonings happen when the leaves are mistaken for comfrey or other plants. There is no safe home use; the heart drug derived from it (digoxin) requires careful medical dosing and monitoring.",
+      "modern_evidence_status": "Purified, precisely dosed digitalis derivatives are genuine prescription heart medicines, but the raw plant is a documented cause of fatal poisoning and has no safe home use."
+    }
+  },
+  {
+    "id": "lewer-honey",
+    "name": "Honey",
+    "category": "respiratory",
+    "source": {
+      "title": "A Book of Simples",
+      "author": "transcribed by Henry William Lewer (manuscript c.1600s, published 1908)",
+      "year": "1908",
+      "url": "https://www.gutenberg.org/files/53951/53951-h/53951-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Honey / 'hony'",
+        "modern_equivalent": "Honey (bee honey)"
+      }
+    ],
+    "preparation_as_written": "The manuscript describes honey mixed into warm drinks and electuaries with herbs such as horehound or hyssop, and applied to sores.",
+    "symptoms_addressed_as_written": "The text presents honey to soothe a sore throat and cough, as a base for chest medicines, and applied to wounds and sores.",
+    "symptom_tags": [
+      "cough",
+      "sore throat",
+      "hoarseness",
+      "wounds",
+      "sores",
+      "chest congestion"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "Honey is low-risk and soothing for most people. The one firm exception: never give honey to a baby under 12 months old, because of the risk of infant botulism.",
+      "modern_evidence_status": "Honey has reasonable modern evidence for easing cough and sore throat in adults and older children, and medical-grade honey is used on some wounds."
+    }
+  },
+  {
+    "id": "culpeper-thyme",
+    "name": "Thyme",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Thyme (garden thyme)",
+        "modern_equivalent": "Thymus vulgaris (common thyme)"
+      }
+    ],
+    "preparation_as_written": "The text describes the herb boiled in water with honey and the liquor taken for the chest.",
+    "symptoms_addressed_as_written": "Culpeper writes that thyme helps a cough and shortness of breath, brings up phlegm, and comforts the stomach.",
+    "symptom_tags": [
+      "cough",
+      "phlegm",
+      "chest congestion",
+      "shortness of breath",
+      "sore throat"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A common culinary herb. Tea- and food-strength thyme is low-risk for most people; concentrated thyme essential oil is a separate, much stronger product that should not be swallowed undiluted.",
+      "modern_evidence_status": "Thyme preparations have some modern evidence as part of cough remedies (often with ivy); the everyday herb tea has weaker but supportive traditional use."
+    }
+  },
+  {
+    "id": "culpeper-lungwort",
+    "name": "Lungwort",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Lungwort",
+        "modern_equivalent": "Pulmonaria officinalis (lungwort); historically the name was also used for a tree lichen, Lobaria pulmonaria"
+      }
+    ],
+    "preparation_as_written": "The text describes the leaves boiled in water and the liquor taken for the lungs.",
+    "symptoms_addressed_as_written": "Culpeper writes that lungwort is good for the diseases of the lungs, for coughs, wheezing and shortness of breath.",
+    "symptom_tags": [
+      "cough",
+      "wheezing",
+      "shortness of breath",
+      "chest congestion",
+      "phlegm"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "A traditional lung herb, generally low-risk as a tea for most people. Note the historical name covers more than one plant, so identity in old recipes can be uncertain.",
+      "modern_evidence_status": "Largely traditional ('doctrine of signatures') use; little modern clinical evidence for the lung claims."
+    }
+  },
+  {
+    "id": "culpeper-garlic",
+    "name": "Garlic",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Garlic",
+        "modern_equivalent": "Allium sativum (garlic)"
+      }
+    ],
+    "preparation_as_written": "The text describes garlic eaten, boiled into a posset, or applied to the skin.",
+    "symptoms_addressed_as_written": "Culpeper writes that garlic helps cold coughs and shortness of breath, expels wind, and was used against infection and the bites of venomous creatures — while noting it is too hot for choleric or feverish people.",
+    "symptom_tags": [
+      "cough",
+      "cold",
+      "chest congestion",
+      "wind",
+      "shortness of breath",
+      "infection"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "Culinary garlic is low-risk, but in larger medicinal amounts garlic thins the blood and can add to the effect of blood-thinning medicines and increase bleeding risk around surgery. Applying raw garlic directly to skin can cause chemical burns.",
+      "modern_evidence_status": "Garlic has modest modern evidence for small effects on blood pressure and cholesterol; the historical cough/infection uses are mostly traditional. The blood-thinning interaction is well documented."
+    }
+  },
+  {
+    "id": "culpeper-whitepoppy",
+    "name": "White Poppy (Opium Poppy)",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "White poppy / heads of poppy",
+        "modern_equivalent": "Papaver somniferum (opium poppy) — the source of opium"
+      }
+    ],
+    "preparation_as_written": "The historical text describes a syrup or decoction made from the poppy heads, taken to cause sleep and quiet a cough — a preparation now understood to contain opium.",
+    "symptoms_addressed_as_written": "Culpeper presents poppy preparations to procure sleep, ease pain, and quiet violent coughs and 'rheums'.",
+    "symptom_tags": [
+      "sleeplessness",
+      "insomnia",
+      "pain",
+      "cough",
+      "restlessness"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "The white poppy is the opium poppy. Home preparations of the heads contain opium alkaloids (including morphine and codeine) in unknown, uncontrolled strengths, which can dangerously slow or stop breathing — especially in children, where poppy-head preparations have caused deaths. There is no safe way to self-dose this at home, and it is controlled by law in many places.",
+      "modern_evidence_status": "Purified, precisely dosed opioid medicines derived from this plant are essential prescription drugs under strict control, but uncontrolled home preparations are dangerous and historically lethal, particularly for infants."
+    }
+  },
+  {
+    "id": "culpeper-tobacco",
+    "name": "Tobacco",
+    "category": "respiratory",
+    "source": {
+      "title": "The Complete Herbal",
+      "author": "Nicholas Culpeper",
+      "year": "1653 (1850 edition)",
+      "url": "https://www.gutenberg.org/files/49513/49513-h/49513-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Tobacco",
+        "modern_equivalent": "Nicotiana tabacum (tobacco)"
+      }
+    ],
+    "preparation_as_written": "The historical text describes the herb made into ointments and poultices for the skin, the smoke drawn for the chest, and the juice used — uses now understood to deliver toxic nicotine.",
+    "symptoms_addressed_as_written": "Culpeper presents tobacco for the chest and to bring up phlegm, and outwardly in ointments for old sores, swellings and skin complaints.",
+    "symptom_tags": [
+      "chest congestion",
+      "phlegm",
+      "cough",
+      "sores",
+      "swelling",
+      "skin"
+    ],
+    "modern_caution": {
+      "flag_level": "high",
+      "notes": "Tobacco contains nicotine, which is highly poisonous — it can be absorbed through skin and through broken skin from poultices, causing nausea, a racing or irregular heartbeat, collapse and, in concentrated form, death. Children are especially vulnerable. Beyond acute poisoning, smoking it carries the well-known long-term cancer and heart-and-lung risks.",
+      "modern_evidence_status": "No safe modern home medicinal use; nicotine poisoning from skin contact is documented, and tobacco's long-term harms are among the best-established in medicine."
+    }
+  },
+  {
+    "id": "lewer-rosemary",
+    "name": "Rosemary",
+    "category": "respiratory",
+    "source": {
+      "title": "A Book of Simples",
+      "author": "transcribed by Henry William Lewer (manuscript c.1600s, published 1908)",
+      "year": "1908",
+      "url": "https://www.gutenberg.org/files/53951/53951-h/53951-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Rosemary / 'rosemarie'",
+        "modern_equivalent": "Salvia rosmarinus (rosemary), formerly Rosmarinus officinalis"
+      }
+    ],
+    "preparation_as_written": "The manuscript describes rosemary boiled in water or wine, the steam breathed in, and the herb worn or burned, for the head and chest.",
+    "symptoms_addressed_as_written": "The text presents rosemary to comfort the head and memory, to help colds and the chest, and as a fragrant strewing and washing herb.",
+    "symptom_tags": [
+      "cold",
+      "congestion",
+      "headache",
+      "low spirits",
+      "chest",
+      "stuffy nose"
+    ],
+    "modern_caution": {
+      "flag_level": "low",
+      "notes": "Culinary- and tea-strength rosemary is low-risk for most people. Concentrated rosemary essential oil is a separate, much stronger product that should not be swallowed; very large medicinal amounts of the herb are best avoided in pregnancy.",
+      "modern_evidence_status": "Mostly traditional and culinary use; limited modern evidence, mainly small studies on aroma and alertness."
+    }
+  },
+  {
+    "id": "lewer-sage",
+    "name": "Sage",
+    "category": "respiratory",
+    "source": {
+      "title": "A Book of Simples",
+      "author": "transcribed by Henry William Lewer (manuscript c.1600s, published 1908)",
+      "year": "1908",
+      "url": "https://www.gutenberg.org/files/53951/53951-h/53951-h.htm",
+      "license": "Public domain"
+    },
+    "ingredients": [
+      {
+        "historical_name": "Sage",
+        "modern_equivalent": "Salvia officinalis (common sage)"
+      }
+    ],
+    "preparation_as_written": "The manuscript describes sage boiled in water and used as a warm gargle and drink for the mouth and throat.",
+    "symptoms_addressed_as_written": "The text presents sage as a gargle for a sore mouth and throat, to help the head, and to comfort the body.",
+    "symptom_tags": [
+      "sore throat",
+      "mouth sores",
+      "hoarseness",
+      "cough",
+      "gum problems"
+    ],
+    "modern_caution": {
+      "flag_level": "medium",
+      "notes": "A sage gargle or culinary use is low-risk, but sage contains thujone, so strong sage tea taken in quantity over time, and especially sage essential oil, can be harmful and (in oil form) trigger seizures. Medicinal-strength internal use is avoided in pregnancy and while breastfeeding (it can reduce milk supply).",
+      "modern_evidence_status": "Sage gargles/sprays have some modern evidence for sore throat; the thujone caution applies to strong or prolonged internal use and to the essential oil."
     }
   }
 ]

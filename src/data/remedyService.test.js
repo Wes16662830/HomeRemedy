@@ -87,6 +87,32 @@ describe('SAFETY-CRITICAL: search suppresses high/critical entries by default', 
     expect(searchBySymptom('cough').length).toBeGreaterThan(0);
     expect(searchBySymptom('wind').some((r) => r.id === 'culpeper-fennel')).toBe(true);
   });
+
+  it('INVARIANT: no suppressed entry is reachable via any of its own symptom tags', () => {
+    for (const r of getAllRemedies()) {
+      if (!isSuppressed(r)) continue;
+      for (const tag of r.symptom_tags) {
+        const hit = searchBySymptom(tag).some((x) => x.id === r.id);
+        expect(
+          hit,
+          `${r.id} (${r.modern_caution.flag_level}) leaked into symptom search for "${tag}"`
+        ).toBe(false);
+      }
+    }
+  });
+
+  it('INVARIANT: no suppressed entry is reachable via its own ingredient names', () => {
+    for (const r of getAllRemedies()) {
+      if (!isSuppressed(r)) continue;
+      for (const ing of r.ingredients) {
+        const hit = searchByIngredient(ing.historical_name).some((x) => x.id === r.id);
+        expect(
+          hit,
+          `${r.id} leaked into ingredient search for "${ing.historical_name}"`
+        ).toBe(false);
+      }
+    }
+  });
 });
 
 describe('deliberate browse path CAN reach suppressed entries', () => {

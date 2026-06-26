@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react';
+import { Link } from 'react-router-dom';
 import {
   searchBySymptom,
   searchByIngredient,
@@ -49,7 +50,7 @@ export default function SearchPage() {
           entries. Remedies flagged <strong>high</strong> or{' '}
           <strong>critical</strong> are never surfaced through search — they are
           reachable only by deliberately{' '}
-          <a href="/browse">browsing a source text</a>.
+          <Link to="/browse">browsing a source text</Link>.
         </p>
       </section>
 
@@ -121,7 +122,7 @@ function Results({ query, results, mode, substitutions }) {
           <ul>
             {substitutions.map((r) => (
               <li key={r.id}>
-                <a href={`/remedy/${r.id}`}>{r.name}</a> —{' '}
+                <Link to={`/remedy/${r.id}`}>{r.name}</Link> —{' '}
                 {r.symptoms_addressed_as_written}
               </li>
             ))}

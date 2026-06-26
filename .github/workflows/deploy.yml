@@ -1,0 +1,63 @@
+name: Deploy to GitHub Pages
+
+# Builds the Vite app and publishes it to GitHub Pages.
+# One-time setup by the repo owner: Settings → Pages → Build and deployment →
+# Source: "GitHub Actions". After that, every push to main (or a manual run on
+# any branch via "Run workflow") deploys automatically.
+on:
+  push:
+    branches: [main, claude/trusting-maxwell-jv2mcr]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; cancel older in-progress runs.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Run safety test suite
+        run: npm test
+
+      - name: Validate corpus
+        run: npm run validate
+
+      - name: Build (base path = /<repo>/ for project Pages site)
+        run: npm run build
+        env:
+          VITE_BASE: /${{ github.event.repository.name }}/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    # Feature-branch pushes just run CI (build/test/validate above). Publishing
+    # happens on main, or on a manual "Run workflow" (which can target any branch).
+    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -132,7 +132,41 @@ npm run build      # production build
 npm run preview    # preview the production build
 npm test           # run the safety / data-integrity test suite
 npm run validate   # standalone corpus QA (schema + safety rules)
+npm run build:standalone  # one self-contained offline HTML (dist-standalone/)
 ```
+
+## Install / deploy as a web app (PWA)
+
+The app is an installable Progressive Web App: a web manifest, app icons, and a
+service worker (via `vite-plugin-pwa`) make it installable to a phone/desktop
+home screen, launchable in its own window, and usable offline once loaded.
+
+**Hosting — GitHub Pages (default).** `.github/workflows/deploy.yml` builds and
+publishes on push to `main` (or a manual *Run workflow* on any branch). The base
+path is set automatically from the repo name, so the app is served correctly
+from a project subpath. One-time owner setup:
+
+1. Repo **Settings → Pages → Build and deployment → Source: "GitHub Actions"**.
+2. Merge to `main` (or run the workflow manually) — the action runs the tests,
+   validates the corpus, builds, and deploys.
+3. The app appears at `https://<owner>.github.io/<repo>/` and can be installed
+   from the browser's "Install app" / "Add to Home Screen" option.
+
+The workflow gates deployment behind the safety test suite and corpus validation
+(`npm test` + `npm run validate`), so a corpus change that broke suppression or
+an entry's flag would fail the build before it could ship.
+
+**Other hosts.** The build is host-agnostic. For a root-domain host (Netlify,
+Vercel, custom domain) no base path is needed; build with the default `/` base.
+For another subpath host, pass `VITE_BASE=/your-path/ npm run build`. A
+`404.html` SPA fallback is emitted for static hosts that need it.
+
+**Fully offline, no host.** `npm run build:standalone` produces a single
+self-contained HTML file (app + styles + all entries inlined, hash-routed) that
+runs from `file://` with no server — handy for sharing or archival use.
+
+Icons are pre-generated and committed under `public/icons`; regenerate them with
+`node scripts/gen-icons.mjs` (requires a local Chromium via playwright).
 
 ## Tests
 

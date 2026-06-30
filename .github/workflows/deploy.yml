@@ -1,9 +1,9 @@
 name: Deploy to GitHub Pages
 
-# Builds the Vite app and publishes it to GitHub Pages.
-# One-time setup by the repo owner: Settings → Pages → Build and deployment →
-# Source: "GitHub Actions". After that, every push to main (or a manual run on
-# any branch via "Run workflow") deploys automatically.
+# Builds the Vite app and publishes it to GitHub Pages. Pages is enabled
+# automatically by the configure-pages step (enablement: true), so no manual
+# Settings change is required. Deploys on push to main or the working branch,
+# or on a manual "Run workflow".
 on:
   push:
     branches: [main, claude/trusting-maxwell-jv2mcr]
@@ -27,7 +27,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - run: npm ci
@@ -38,12 +38,18 @@ jobs:
       - name: Validate corpus
         run: npm run validate
 
+      # Auto-enables Pages (Actions source) the first time, so the owner does not
+      # need to toggle anything in Settings. Provides the base path for the build.
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
       - name: Build (base path = /<repo>/ for project Pages site)
         run: npm run build
         env:
-          VITE_BASE: /${{ github.event.repository.name }}/
-
-      - uses: actions/configure-pages@v5
+          VITE_BASE: ${{ steps.pages.outputs.base_path }}/
 
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -51,9 +57,6 @@ jobs:
 
   deploy:
     needs: build
-    # Feature-branch pushes just run CI (build/test/validate above). Publishing
-    # happens on main, or on a manual "Run workflow" (which can target any branch).
-    if: github.ref == 'refs/heads/main' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

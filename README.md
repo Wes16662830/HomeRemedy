@@ -142,15 +142,16 @@ service worker (via `vite-plugin-pwa`) make it installable to a phone/desktop
 home screen, launchable in its own window, and usable offline once loaded.
 
 **Hosting — GitHub Pages (default).** `.github/workflows/deploy.yml` builds and
-publishes on push to `main` (or a manual *Run workflow* on any branch). The base
-path is set automatically from the repo name, so the app is served correctly
-from a project subpath. One-time owner setup:
+publishes on push to `main` or the working branch (or a manual *Run workflow*).
+The workflow **enables Pages automatically** (`configure-pages` with
+`enablement: true`) and derives the base path from the repo, so the app is
+served correctly from a project subpath with no manual Settings change. The app
+appears at `https://<owner>.github.io/<repo>/` and can be installed from the
+browser's "Install app" / "Add to Home Screen" option.
 
-1. Repo **Settings → Pages → Build and deployment → Source: "GitHub Actions"**.
-2. Merge to `main` (or run the workflow manually) — the action runs the tests,
-   validates the corpus, builds, and deploys.
-3. The app appears at `https://<owner>.github.io/<repo>/` and can be installed
-   from the browser's "Install app" / "Add to Home Screen" option.
+If a repository or org policy blocks automatic enablement, do the one-time
+**Settings → Pages → Build and deployment → Source: "GitHub Actions"** and
+re-run the workflow.
 
 The workflow gates deployment behind the safety test suite and corpus validation
 (`npm test` + `npm run validate`), so a corpus change that broke suppression or
